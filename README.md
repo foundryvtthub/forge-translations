@@ -12,4 +12,4 @@ This repository allows for integration with community translation management sol
 - Language files are located in `locales/{language}/{namespace}.json`
 
 ### Interested in contributing to translation efforts?
-We appreciate that! You'll find the `forge-translations` project on the [Foundry Hub Weblate](https://weblate.foundryvtt-hub.com/) server. Click [here](https://weblate.foundryvtt-hub.com/engage/the-forge/) to see how you can get started.
+We appreciate that! You can click [here](https://weblate.foundryvtt-hub.com/engage/the-forge/) to find `The Forge` translation project on [Weblate](https://weblate.foundryvtt-hub.com/), hosted by [Foundry Hub](https://www.foundryvtt-hub.com/).
