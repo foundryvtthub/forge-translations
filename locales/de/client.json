@@ -1,0 +1,22 @@
+{
+  "API Key Manager": "API Key Manager",
+  "API Keys revoked": "API-Schlüssel wurden widerrufen",
+  "Account Information": "Kontoinformationen",
+  "Analyze Files": "Dateien analysieren",
+  "Back": "Zurückkehren",
+  "Billing and Payment": "Abrechnung und Zahlung",
+  "Email Address": "E-Mail-Addresse",
+  "EmailAddress": "E-Mail-Addresse",
+  "Foundry license": "Gießerei-Lizenz",
+  "INFORMATION_TOGGLE.ClickTo": "Klicken Sie auf {{verb}} {{noun}}",
+  "Invitation Link": "Einladungslink",
+  "Invitation link copied to clipboard": "Einladungslink in die Zwischenablage kopiert",
+  "InvitationLink": "Einladungslink",
+  "ManifestLink": "Manifest-Link",
+  "Patreon": "Patreon",
+  "Purchases": "Einkäufe",
+  "Subscription": "Abonnement",
+  "User Profile": "Benutzerprofil",
+  "hide": "verstecken",
+  "show": "show"
+}
