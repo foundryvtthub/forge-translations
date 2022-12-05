@@ -20,5 +20,7 @@
   "hide": "verstecken",
   "show": "show",
   "Stripe": "Stripe",
-  "Foundry VTT": "Foundry VTT"
+  "Foundry VTT": "Foundry VTT",
+  ", please wait…": ", bitte warten…",
+  "(Amount Due)": "(Fälliger Betrag)"
 }
