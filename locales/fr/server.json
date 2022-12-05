@@ -4,7 +4,7 @@
   "Bazaar": "Bazaar",
   "Community Wiki": "Wiki de la communauté",
   "Contact Us": "Nous contacter",
-  "Data maintenance in progress: {{detail}}": "Maintenance de vos données est en cours: {{detail}}",
+  "Data maintenance in progress: {{detail}}": "Maintenance de vos données est en cours : {{detail}}",
   "Features": "Caractéristiques",
   "Forums": "Forums",
   "FoundryVTT knowledge base": "Base de connaissances FoundryVTT",
@@ -24,5 +24,10 @@
   "Sales Policy/FAQ": "Politique de vente/FAQ",
   "Systems": "Systèmes",
   "Terms of Service": "Conditions d'utilisation",
-  "Worlds": "Mondes"
+  "Worlds": "Mondes",
+  ", which lets you join other people's private games and gives you your personal assets library.": ", qui vous permet de rejoindre les jeux privés d'autres personnes et vous offre votre propre bibliothèque d'actifs.",
+  "(no limit on number of worlds)": "(pas de limite au nombre de mondes)",
+  "[Bazaar] Package ready for review: {{pkg.title}}": "[Bazaar] Paquet prêt à être examiné : {{pkg.title}}",
+  "[The Forge] Password reset": "[La Forge] Réinitialisation du mot de passe",
+  "[The Forge] Verify your email address": "[La Forge] Vérifier votre adresse e-mail"
 }
