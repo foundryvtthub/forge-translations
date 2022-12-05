@@ -20,5 +20,22 @@
   "hide": "cacher",
   "show": "afficher",
   "Foundry VTT": "Foundry VTT",
-  "Stripe": "Stripe"
+  "Stripe": "Stripe",
+  ", please wait…": ", veuillez patienter…",
+  "(Amount Due)": "(Montant dû)",
+  "(Card)": "(Carte)",
+  "(Credit)": "(Crédit)",
+  "(If you did not see the D&D Beyond window pop open, make sure you do not have an adblocker preventing the popup window from appearing)": "(Si vous n'avez pas vu la fenêtre D&D Beyond s'ouvrir, assurez-vous que vous n'avez pas un adblocker empêchant la fenêtre popup d'apparaître).",
+  "(Installed)": "(Installé)",
+  "(Latest)": "(Dernières nouvelles)",
+  "(minimum: $ {{minimum}})": "(minimum : $ {{minimum}})",
+  "(Paypal)": "(PayPal)",
+  "{{count}} Files_one": "{{count}} Fichier",
+  "{{count}} Files_other": "{{count}} Fichiers",
+  "{{count}} hours_one": "{{count}} heure",
+  "{{count}} hours_other": "{{count}} heures",
+  "{{count}} more players hidden…_one": "{{count}} plus de joueur caché…",
+  "{{count}} more players hidden…_other": "{{count}} plus de joueurs cachés…",
+  "{{count}} of those were compendium modules._other": "{{count}} d'entre eux étaient des modules compendium.",
+  "{{count}} of those were compendium modules._one": "{{count}} d'entre eux était un module compendium."
 }
