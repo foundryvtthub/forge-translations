@@ -21,7 +21,7 @@
   "show": "afficher",
   "Foundry VTT": "Foundry VTT",
   "Stripe": "Stripe",
-  ", please wait…": ", veuillez patienter…",
+  ", please wait…": "Veuillez patienter…",
   "(Amount Due)": "(Montant dû)",
   "(Card)": "(Carte)",
   "(Credit)": "(Crédit)",
@@ -37,5 +37,13 @@
   "{{count}} more players hidden…_one": "{{count}} plus de joueur caché…",
   "{{count}} more players hidden…_other": "{{count}} plus de joueurs cachés…",
   "{{count}} of those were compendium modules._other": "{{count}} d'entre eux étaient des modules compendium.",
-  "{{count}} of those were compendium modules._one": "{{count}} d'entre eux était un module compendium."
+  "{{count}} of those were compendium modules._one": "{{count}} d'entre eux était un module compendium.",
+  "{{count}} of those were from the worlds._one": "{{count}} d'entre elles provenaient des mondes.",
+  "{{count}} of those were from the worlds._other": "{{count}} d'entre eux provenaient des mondes.",
+  "{{count}} players_one": "{{count}} joueurs",
+  "{{count}} players_other": "{{count}} joueurs",
+  "{{gameLabel}} Banner:": "{{gameLabel}} Bannière :",
+  "{{gameLabel}} Description:": "{{gameLabel}} Description :",
+  "{{gameLabel}} Privacy Mode {0}:": "{{gameLabel}} Mode de confidentialité {0} :",
+  "{{gameLabel}} Title:": "{{gameLabel}} Titre :"
 }
