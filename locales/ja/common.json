@@ -9,7 +9,7 @@
   "Assets Library": "アセット・ライブラリー",
   "Assistant Game Master": "アシスタントゲームマスター",
   "Austria": "オーストリア",
-  "Bazaar": "バザール",
+  "Bazaar": "Bazaar",
   "Belgium": "ベルギー",
   "British Columbia": "ブリティッシュコロンビア",
   "Bulgaria": "ブルガリア",
@@ -51,6 +51,7 @@
   "Czech Republic": "チェコ共和国",
   "Delaware": "デラウェア",
   "Denmark": "デンマーク",
+  "District Of Columbia": "コロンビア特別区",
   "Email": "電子メール",
   "Estonia": "エストニア",
   "Explorer Mode": "エクスプローラーモード",
@@ -90,7 +91,7 @@
   "Latvia": "ラトビア",
   "Liechtenstein": "リヒテンシュタイン",
   "My Account": "マイアカウント",
-  "My Foundry": "マイファウンダリー",
+  "My Foundry": "マイFoundry",
   "Name": "名称",
   "Nebraska": "ネブラスカ",
   "Netherlands": "オランダ",
@@ -163,7 +164,7 @@
   "Tennessee": "テネシー州",
   "Terms of Service": "利用規約",
   "Texas": "テキサス",
-  "The Forge": "ザ・フォージ",
+  "The Forge": "ザ・Forge",
   "Today": "今日",
   "Trusted Player": "信頼できるプレーヤー",
   "U.S. Armed Forces - Americas": "アメリカ軍 - アメリカ大陸",
@@ -192,5 +193,5 @@
   "per month": "月当たり",
   "per year": "年あたり",
   "yearly": "毎年",
-  "{{title}} (Restored from {{date}})": "{{title}} (Restored from ){{date}}"
+  "{{title}} (Restored from {{date}})": "{{title}} ({{date}}から復元)"
 }
