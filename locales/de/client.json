@@ -1174,7 +1174,6 @@
   "{{- name}} uploaded successfully": "{{- name}} erfolgreich hochgeladen",
   "{{count}} players_one": "{{count}} Spieler",
   "{{count}} players_other": "{{count}} Spieler",
-  "{{gameLabel}} Title:": "{{gameLabel}} Titel:",
   "{{module}} module has been fixed": "{{module}} Modul wurde behoben",
   "{{month}} {{year}}": "{{month}} {{year}}",
   "{{name}} (Shared)": "{{name}} (Geteilt)",
