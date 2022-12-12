@@ -194,5 +194,5 @@
   "TIMESPAN.minutes": "{{val, relativetime(days)}}",
   "TIMESPAN.seconds": "{{val, relativetime(days)}}",
   "Tennessee": "Tennessee",
-  "Launch My Foundry": "Meine Gießerei starten"
+  "Launch My Foundry": "Meine Foundry starten"
 }
