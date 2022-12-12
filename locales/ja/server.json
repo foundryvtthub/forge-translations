@@ -773,5 +773,7 @@
   "Your Limited Time Demo of Foundry VTT has expired": "Foundry VTTの期間限定デモは終了しました。",
   "Your password was changed successfully.": "パスワードの変更に成功しました。",
   "Your subscription payment has failed after multiple attempts. Please <a href=\"/account#billing\">pay your due invoice</a> to unlock your account.": "購読料の支払いが複数回試行された後、失敗しました。<a href=\"/account#billing\">アカウントのロックを解除するには、支払期限内の請求書（</a> ）をお支払いください。",
-  "Webhook Error: {{- error}}": "ウェブフックエラーです。{{- error}}"
+  "Webhook Error: {{- error}}": "ウェブフックエラーです。{{- error}}",
+  "{{- data.title}} version {{data.version}} does not specify a compatibleCoreVersion and may not work with Foundry VTT version {{coreVersion}}": "{{- data.title}} version は compatibleCoreVersion を指定しないため、Foundry VTT version で動作しない可能性があります。{{data.version}} {{coreVersion}}",
+  "{{- data.title}} version {{data.version}} may not be compatible with Foundry VTT versions newer than {{data.compatibleCoreVersion}}": "{{- data.title}} バージョン は、Foundry VTT の新しいバージョンと互換性がない場合があります。{{data.version}} {{data.compatibleCoreVersion}}"
 }
