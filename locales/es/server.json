@@ -340,7 +340,6 @@
   "It is Foundry’s only and best marketplace!": "¡Es el único y mejor mercado de Foundry!",
   "Join the team!": "¡Únete al equipo!",
   "Keys must be a valid Player id.": "Las claves deben ser un identificador de jugador válido.",
-  "Launch My Foundry": "Lanzar Mi Foundry",
   "Live Demo": "Demostración en directo",
   "LiveKit server for Audio/Video support": "Servidor LiveKit para soporte de audio/vídeo",
   "LiveKit Servers": "Servidores LiveKit",
@@ -774,5 +773,7 @@
   "Your Limited Time Demo of Foundry VTT has expired": "Su demo por tiempo limitado de Foundry VTT ha caducado",
   "Your password was changed successfully.": "Su contraseña ha sido cambiada con éxito.",
   "Your subscription payment has failed after multiple attempts. Please <a href=\"/account#billing\">pay your due invoice</a> to unlock your account.": "El pago de su suscripción ha fallado tras múltiples intentos. Por favor <a href=\"/account#billing\">pagar su factura vencida</a> para desbloquear su cuenta.",
-  "Your subscription payment has failed. Make sure your <a href=\"/account#billing\">payment details</a> are up to date to avoid service interruptions.": "El pago de su suscripción ha fallado. Asegúrese de que sus datos de pago de <a href=\"/account#billing\"></a> están actualizados para evitar interrupciones del servicio."
+  "Your subscription payment has failed. Make sure your <a href=\"/account#billing\">payment details</a> are up to date to avoid service interruptions.": "El pago de su suscripción ha fallado. Asegúrese de que sus datos de pago de <a href=\"/account#billing\"></a> están actualizados para evitar interrupciones del servicio.",
+  "{{- data.title}} version {{data.version}} does not specify a compatibleCoreVersion and may not work with Foundry VTT version {{coreVersion}}": "{{- data.title}} versión {{data.version}} no especifica un compatibleCoreVersion y puede no funcionar con la versión Foundry VTT {{coreVersion}}",
+  "{{- data.title}} version {{data.version}} may not be compatible with Foundry VTT versions newer than {{data.compatibleCoreVersion}}": "{{- data.title}} La versión {{data.version}} puede no ser compatible con las versiones de Foundry VTT más recientes que {{data.compatibleCoreVersion}}"
 }

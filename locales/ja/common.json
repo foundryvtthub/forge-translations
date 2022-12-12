@@ -193,5 +193,6 @@
   "per month": "月当たり",
   "per year": "年あたり",
   "yearly": "毎年",
-  "{{title}} (Restored from {{date}})": "{{title}} ({{date}}から復元)"
+  "{{title}} (Restored from {{date}})": "{{title}} ({{date}}から復元)",
+  "Launch My Foundry": "マイファウンダリーを立ち上げる"
 }

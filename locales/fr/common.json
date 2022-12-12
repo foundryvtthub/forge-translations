@@ -1,7 +1,5 @@
 {
-  "LANGUAGE.NAME": "Français",
   "LANGUAGE.de": "Deutsch (Allemand)",
-  "LANGUAGE.dev": "Debug",
   "LANGUAGE.en": "English (Anglais)",
   "LANGUAGE.fr": "Français",
   "The Forge": "La Forge",
@@ -195,5 +193,6 @@
   "per month": "par mois",
   "per year": "par an",
   "yearly": "annuel",
-  "{{title}} (Restored from {{date}})": "{{title}} (Adapté de {{date}})"
+  "{{title}} (Restored from {{date}})": "{{title}} (Adapté de {{date}})",
+  "Launch My Foundry": "Lancer ma fonderie"
 }

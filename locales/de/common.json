@@ -1,8 +1,6 @@
 {
   "Assets Library": "Asset-Bibliothek",
-  "LANGUAGE.NAME": "Deutsch",
   "LANGUAGE.de": "Deutsch",
-  "LANGUAGE.dev": "Debug",
   "LANGUAGE.en": "English (Englisch)",
   "LANGUAGE.fr": "Français (Französisch)",
   "The Forge": "Die Forge",
@@ -195,5 +193,6 @@
   "TIMESPAN.hours": "{{val, relativetime(days)}}",
   "TIMESPAN.minutes": "{{val, relativetime(days)}}",
   "TIMESPAN.seconds": "{{val, relativetime(days)}}",
-  "Tennessee": "Tennessee"
+  "Tennessee": "Tennessee",
+  "Launch My Foundry": "Meine Gießerei starten"
 }
