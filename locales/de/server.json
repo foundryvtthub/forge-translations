@@ -11,12 +11,10 @@
   "Live Demo": "Live-Demo",
   "Log Out": "Ausloggen",
   "Login/Sign Up": "Einloggen Anmelden",
-  "Modules": "Module",
   "My Games": "Meine Spiele",
   "NAVIGATION.MyAccount": "Mein Konto",
   "Privacy Policy": "Datenschutz-Bestimmungen",
   "Sales Policy/FAQ": "Verkaufspolitik/FAQ",
-  "Terms of Service": "Nutzungsbedingungen",
   "Error launching game: {{- error}}": "Fehler beim Starten des Spiels: {{- error}}",
   "Error writing license file: {{- error}}": "Fehler beim Schreiben der Lizenzdatei: {{- error}}",
   "Billing information is invalid.": "Die Rechnungsdaten sind ungültig.",
@@ -775,5 +773,7 @@
   "Tier": "Ebene",
   "Unbeatable prices": "Unschlagbare Preise",
   "Your assets, automatically replicated and served to you from over 200 possible server locations. Automatically optimized in file size and image quality. Only the best for our users.": "Ihre Assets werden automatisch repliziert und Ihnen von über 200 möglichen Serverstandorten zur Verfügung gestellt. Automatisch optimiert in Dateigröße und Bildqualität. Nur das Beste für unsere Nutzer.",
-  "Your card has expired.": "Ihre Karte ist abgelaufen."
+  "Your card has expired.": "Ihre Karte ist abgelaufen.",
+  "{{- data.title}} version {{data.version}} does not specify a compatibleCoreVersion and may not work with Foundry VTT version {{coreVersion}}": "{{- data.title}} Version {{data.version}} gibt keine compatibleCoreVersion an und funktioniert möglicherweise nicht mit Foundry VTT Version {{coreVersion}}",
+  "{{- data.title}} version {{data.version}} may not be compatible with Foundry VTT versions newer than {{data.compatibleCoreVersion}}": "{{- data.title}} Version {{data.version}} ist möglicherweise nicht kompatibel mit Foundry VTT-Versionen, die neuer sind als {{data.compatibleCoreVersion}}"
 }
