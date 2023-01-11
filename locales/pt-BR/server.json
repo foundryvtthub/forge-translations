@@ -459,7 +459,6 @@
   "Password reset": "Reinicialização de senha",
   "Password reset!": "Reinicialização da palavra-passe!",
   "Payment processing error: {{- error}}": "Erro no processamento de pagamentos: {{- error}}",
-  "per Extra purchased": "por Extra adquirido",
   "PLANS.AssetsLibraryInfo": "O {{- forumLink}} é onde guardaria todos os seus ficheiros de bens (imagens, vídeos, música) para os seus jogos. Permite-lhe armazenar os ficheiros maiores nos nossos servidores geograficamente distribuídos para assegurar a máxima velocidade de descarga e desempenho.",
   "PLANS.FeaturesListInfo": "Consulte o nosso {{- featuresLink}} completo para mais detalhes sobre as nossas características, e veja por si próprios porque A Forge é a melhor escolha para alojar os seus jogos.",
   "PLANS.ForgeInfo": "A Forge é uma plataforma de hospedagem para o software de jogos {{- foundryLink}} e requer uma licença de Foundry válida para hospedar os seus próprios jogos.",

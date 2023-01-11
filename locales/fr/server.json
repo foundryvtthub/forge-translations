@@ -69,7 +69,6 @@
   "Invalid invoice ID": "ID de facture non valide",
   "Password reset": "Réinitialisation du mot de passe",
   "Password reset!": "Réinitialisation du mot de passe !",
-  "per Extra purchased": "par Extra acheté",
   "Perk granted": "Perk accordé",
   "Read Assets Library (browse assets)": "Lire la bibliothèque des actifs (parcourir les actifs)",
   "{{type}} is not available in the Forge {{- bazaarLink}}. Foundry VTT will install the package.": "{{type}} n'est pas disponible dans la Forge {{- bazaarLink}}. Foundry VTT installera le pack.",

@@ -544,7 +544,6 @@
   "Password reset": "Restablecer contraseña",
   "Password reset!": "¡Contraseña restablecida!",
   "Payment processing error: {{- error}}": "Error en el proceso de pago: {{- error}}",
-  "per Extra purchased": "por Extra adquirido",
   "Perk granted": "Ventaja concedida",
   "PLANS.AssetsLibraryInfo": "En {{- forumLink}} se almacenan todos los archivos de recursos (imágenes, vídeos, música) de los juegos. Te permite almacenar los archivos más grandes en nuestros servidores distribuidos geográficamente para garantizar la máxima velocidad de descarga y rendimiento.",
   "PLANS.FeaturesListInfo": "Echa un vistazo a nuestra completa {{- featuresLink}} para obtener más detalles sobre nuestras características, y comprueba por ti mismo por qué The Forge es la mejor opción para alojar tus juegos.",
