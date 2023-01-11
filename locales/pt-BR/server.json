@@ -4,7 +4,6 @@
   "Deny": "Negar",
   "EMAILS.2FA.EmailSalutation": "Olá {{name}},",
   "EMAILS.2FA.VerificationReason": "Está a receber este e-mail porque você (ou outra pessoa) solicitou a {{ reason }}.",
-  "Error": "Erro",
   "File Deleted": "Ficheiro Apagado",
   "Getting Started": "Começar",
   "Level": "Nível",

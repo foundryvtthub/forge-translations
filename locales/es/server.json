@@ -189,7 +189,6 @@
   "EMAILS.WELCOME.Salutation": "¡Bienvenido a la Forge {{- name}}!",
   "Enter a new secure password for your account.": "Introduzca una nueva contraseña segura para su cuenta.",
   "Enter your username or the email address associated with your account and if the account exists, we will send you password reset instructions.": "Introduzca su nombre de usuario o la dirección de correo electrónico asociada a su cuenta y, si la cuenta existe, le enviaremos instrucciones para restablecer la contraseña.",
-  "Error": "Error",
   "Error adding license to user account": "Error al añadir la licencia a la cuenta de usuario",
   "Error communicating with Foundry VTT: {{err.message}}": "Error de comunicación con Foundry VTT: {{err.message}}",
   "Error contacting Foundry VTT Server": "Error al ponerse en contacto con el servidor VTT de Foundry",

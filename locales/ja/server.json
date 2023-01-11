@@ -220,7 +220,6 @@
   "EMAILS.WELCOME.Salutation": "Forgeへようこそ{{- name}}!",
   "Enter a new secure password for your account.": "アカウントの新しい安全なパスワードを入力します。",
   "Enter your username or the email address associated with your account and if the account exists, we will send you password reset instructions.": "ユーザー名またはアカウントに関連するメールアドレスを入力してください。アカウントが存在する場合、パスワードのリセット方法をお送りします。",
-  "Error": "エラー",
   "Error adding license to user account": "ユーザーアカウントへのライセンス追加エラー",
   "Error communicating with Foundry VTT: {{err.message}}": "Foundry VTTとの通信にエラーが発生しました。{{err.message}}",
   "Error contacting Foundry VTT Server": "ファウンドリVTTサーバへの問い合わせエラー",
