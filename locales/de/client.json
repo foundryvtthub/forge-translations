@@ -520,7 +520,6 @@
   "Imported {{successes}} {{type}}": "Eingeführt {{successes}} {{type}}",
   "Importing": "Importieren von",
   "Importing All Content": "Alle Inhalte importieren",
-  "Importing compendium assets ({{cursor}} / {{count}})_one": "Kompendium-Asset importieren ({{cursor}} / {{count}})",
   "In order to create games of your own, you will need both a {0} game license and a ForgeVTT subscription.": "Um eigene Spiele erstellen zu können, benötigen Sie sowohl eine {0} Spielelizenz als auch ein ForgeVTT-Abonnement.",
   "Private Games: Only players who joined the game using your invitation link will be able to access it.": "Private Spiele: Nur Spieler, die dem Spiel über Ihren Einladungslink beigetreten sind, können darauf zugreifen.",
   "Invitation Link:": "Einladungs-Link:",

@@ -851,7 +851,6 @@
   "Imported {{count}} assets_other": "Importado {{count}} activos",
   "Imported {{successes}} {{type}}": "Importado {{successes}} {{type}}",
   "Importing All Content": "Importação de todo o conteúdo",
-  "Importing compendium assets ({{cursor}} / {{count}})_one": "Importing compendium asset ({{cursor}} / {{count}})",
   "In Development": "Em Desenvolvimento",
   "In order to create games of your own, you will need both a {0} game license and a ForgeVTT subscription.": "Para criar os seus próprios jogos, necessitará tanto de uma licença de jogo {0} como de uma assinatura ForgeVTT.",
   "In order to display available content, The Forge will need to fetch the list of source books from D&D Beyond on your behalf. The Forge does not own or distribute this content—we are merely converting content you own from one format to another.": "A fim de exibir o conteúdo disponível, The Forge terá de ir buscar a lista de livros-fonte ao D&D Beyond em seu nome. A Forge não possui nem distribui este conteúdo - estamos meramente a converter o conteúdo que possui de um formato para outro.",

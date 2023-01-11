@@ -310,7 +310,6 @@
   "Imported {{successes}} {{type}}": "Importé {{successes}} {{type}}",
   "Importing": "Importation de",
   "Importing All Content": "Importation de tout le contenu",
-  "Importing compendium assets ({{cursor}} / {{count}})_one": "Importation d'un actif du compendium ({{cursor}} / {{count}})",
   "In Development": "En cours de développement",
   "In order to create games of your own, you will need both a {0} game license and a ForgeVTT subscription.": "Pour créer vos propres jeux, vous avez besoin d'une licence de jeu {0} et d'un abonnement à ForgeVTT.",
   "In order to display available content, The Forge will need to fetch the list of source books from D&D Beyond on your behalf. The Forge does not own or distribute this content—we are merely converting content you own from one format to another.": "Afin d'afficher le contenu disponible, la Forge devra aller chercher la liste des livres sources de D&D Beyond en votre nom. La Forge ne possède ni ne distribue ce contenu ; elle ne fait que convertir le contenu que vous possédez d'un format à un autre.",
