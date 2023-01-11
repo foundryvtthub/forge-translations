@@ -2,7 +2,10 @@
   "Assets Library": "Asset-Bibliothek",
   "LANGUAGE.de": "Deutsch",
   "LANGUAGE.en": "English (Englisch)",
+  "LANGUAGE.es": "Español (Spanisch)",
   "LANGUAGE.fr": "Français (Französisch)",
+  "LANGUAGE.ja": "日本語 (Japanisch)",
+  "LANGUAGE.pt-BR": "Portugues do Brasil (Brasilianisches Portugiesisch)",
   "The Forge": "Die Forge",
   "Bazaar": "Bazaar",
   "Alabama": "Alabama",
@@ -190,9 +193,9 @@
   "Marketplace": "Marktplatz",
   "Oregon": "Oregon",
   "TIMESPAN.days": "{{val, relativetime(days)}}",
-  "TIMESPAN.hours": "{{val, relativetime(days)}}",
-  "TIMESPAN.minutes": "{{val, relativetime(days)}}",
-  "TIMESPAN.seconds": "{{val, relativetime(days)}}",
+  "TIMESPAN.hours": "{{val, relativetime(hours)}}",
+  "TIMESPAN.minutes": "{{val, relativetime(minutes)}}",
+  "TIMESPAN.seconds": "{{val, relativetime(seconds)}}",
   "Tennessee": "Tennessee",
   "Launch My Foundry": "Meine Foundry starten"
 }
