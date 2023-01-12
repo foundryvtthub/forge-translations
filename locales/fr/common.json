@@ -197,5 +197,16 @@
   "per year": "par an",
   "yearly": "annuel",
   "{{title}} (Restored from {{date}})": "{{title}} (Restauré au {{date}})",
-  "Launch My Foundry": "Lancer Mon Foundry"
+  "Launch My Foundry": "Lancer Mon Foundry",
+  "{{count}} GB_other": "{{count}} GB",
+  "{{count}} MB_other": "{{count}} MB",
+  "Error": "Erreur",
+  "{{count}} Bytes_one": "{{count}} Octet",
+  "{{count}} Bytes_other": "{{count}} Octets",
+  "{{count}} GB_one": "{{count}} GB",
+  "{{count}} KB_one": "{{count}} KB",
+  "{{count}} KB_other": "{{count}} KB",
+  "{{count}} MB_one": "{{count}} MB",
+  "{{count}} TB_one": "{{count}} TB",
+  "{{count}} TB_other": "{{count}} TB"
 }
