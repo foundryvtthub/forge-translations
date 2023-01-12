@@ -773,5 +773,14 @@
   "Your subscription payment has failed after multiple attempts. Please <a href=\"/account#billing\">pay your due invoice</a> to unlock your account.": "Le paiement de votre abonnement a échoué après plusieurs tentatives. Veuillez <a href=\"/account#billing\">payer votre facture due</a> pour débloquer votre compte.",
   "Your subscription payment has failed. Make sure your <a href=\"/account#billing\">payment details</a> are up to date to avoid service interruptions.": "Le paiement de votre abonnement a échoué. Assurez-vous que vos coordonnées de paiement <a href=\"/account#billing\"></a> sont à jour pour éviter toute interruption de service.",
   "{{- data.title}} version {{data.version}} does not specify a compatibleCoreVersion and may not work with Foundry VTT version {{coreVersion}}": "{{- data.title}} La version {{data.version}} ne spécifie pas la version du noyau avec laquelle elle est compatible et peut ne pas fonctionner avec la version {{coreVersion}} de Foundry VTT",
-  "{{- data.title}} version {{data.version}} may not be compatible with Foundry VTT versions newer than {{data.compatibleCoreVersion}}": "{{- data.title}} La version {{data.version}} peut ne pas être compatible avec les versions de Foundry VTT plus récentes que la version {{data.compatibleCoreVersion}}"
+  "{{- data.title}} version {{data.version}} may not be compatible with Foundry VTT versions newer than {{data.compatibleCoreVersion}}": "{{- data.title}} La version {{data.version}} peut ne pas être compatible avec les versions de Foundry VTT plus récentes que la version {{data.compatibleCoreVersion}}",
+  "Bad Request": "Requête mauvaise",
+  "Access unauthorized, insufficient API key permissions": "Accès non autorisé, permissions insuffisantes à l'API",
+  "Access unauthorized, missing API for cross origin": "Accès non autorisé, API manquante pour croiser l'origine",
+  "Forbidden": "Interdit",
+  "User Not Found": "Utilisateur non trouvé",
+  "You are not logged in.": "Vous n'êtes pas connecté.",
+  "PLANS.BonusPerExtra": "$t({{count}} {{type}}, {\"count\" : {{bonus}} }) par Achat supplémentaire",
+  "Access unauthorized, invalid or expired API key": "Accès non autorisé, Clé de l'API invalide ou expirée",
+  "No such package “{{package}}”": "Pas de paquet “{{package}}”"
 }
