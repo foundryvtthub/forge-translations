@@ -1,6 +1,6 @@
 {
   "Bazaar": "Bazaar",
-  "ASSETS.MaxUploadSize": "Tamanho máximo de carregamento de bens: {{upload}} por ficheiro",
+  "ASSETS.MaxUploadSize": "Tamanho máximo de upload de assets: {{upload}} por arquivo",
   "Name": "Nome",
   "Your profile information has been updated.": "A sua informação de perfil foi actualizada.",
   "Yukon": "Yukon",
