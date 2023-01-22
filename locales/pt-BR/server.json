@@ -22,7 +22,7 @@
   "You cannot specify both a save point and a backup to restore": "Não é possível especificar tanto um ponto de salvamento como um backup para restaurar",
   "You cannot unlink your Discord account without first setting a username and password.": "Não pode desbloquear a sua conta Discord sem primeiro definir um nome de utilizador e uma palavra-passe.",
   "Your subscription payment has failed. Make sure your <a href=\"/account#billing\">payment details</a> are up to date to avoid service interruptions.": "O pagamento da sua subscrição falhou. Certifique-se de que os seus dados de pagamento <a href=\"/account#billing\"></a> estão actualizados para evitar interrupções de serviço.",
-  ", which lets you join other people's private games and gives you your personal assets library.": "que lhe permite juntar-se aos jogos privados de outras pessoas e lhe dá a sua biblioteca de bens pessoais.",
+  ", which lets you join other people's private games and gives you your personal assets library.": "que lhe permite juntar-se aos jogos privados de outras pessoas e lhe dá a sua biblioteca de assets pessoais.",
   "[Bazaar] Package ready for review: {{pkg.title}}": "[Pacote pronto para revisão: {{pkg.title}}",
   "[The Forge] Password reset": "[A Forge] Reinicialização da palavra-passe",
   "[The Forge] Verify your email address": "[Verifique o seu endereço de correio electrónico",
