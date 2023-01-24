@@ -1781,7 +1781,7 @@
   "Unknown World": "Monde inconnu",
   "Delete Save Point {{- title }}": "Supprimer le point de sauvegarde {{ title }}",
   "You are about to revert {0} to the {1} Save Point {{title}}.": "Vous êtes sur le point de revenir {0} au {1} Save Point {{title}}.",
-  "Discard changes": "Rejeter les modifications",
+  "Discard changes": "Annuler les changements",
   "You have {{autosaveCount}} autosaves on this world. The Forge will keep {{autosaveQuota}} autosaves per world.": "Vous avez {{autosaveCount}} autosaves sur ce monde. La Forge conservera {{autosaveQuota}} autosaves par monde.",
   "You have {{manualCount}} manual saves on this world. The Forge will keep all manual saves indefinitely.": "Vous avez {{manualCount}} sauvegardes manuelles sur ce monde. La Forge conservera indéfiniment toutes les sauvegardes manuelles.",
   "Note that unassigned users will be disabled but will remain in the world, so that no information is lost. Automatically created Forge users will be disabled if the player is assigned to a different user, or deleted if they leave the game.": "Notez que les utilisateurs non assignés seront désactivés mais resteront dans le monde, afin qu'aucune information ne soit perdue. Les utilisateurs Forge créés automatiquement seront désactivés si le joueur est assigné à un autre utilisateur, ou supprimés s'ils quittent le jeu.",
@@ -1803,5 +1803,18 @@
   "Last played {0}": "Dernière lecture {0}",
   "Launch My Game": "Lancer mon jeu",
   "Manual Save": "Sauvegarde manuelle",
-  "You are about to permanently delete the {{type}} Save Point {{-title}}.": "{{-title}}Vous êtes sur le point de supprimer définitivement le point de sauvegarde {{type}}."
+  "You are about to permanently delete the {{type}} Save Point {{-title}}.": "{{-title}}Vous êtes sur le point de supprimer définitivement le point de sauvegarde {{type}}.",
+  "{{percent}}% of total capacity": "{{percent}}% de la capacité totale",
+  "2FA admin access request": "Demande d'accès admin 2FA",
+  "Admin Access": "Accès Admin",
+  "All": "Tous",
+  "Asia": "Asie",
+  "Auto invite yourself": "Invitez-vous automatiquement",
+  "Autoscaled servers": "Serveurs autoscalés",
+  "Downloading manifest data from D&D Beyond": "Téléchargement des données du manifeste de D&D Beyond",
+  "Downloading referenced dependency content from D&D Beyond": "Téléchargement du contenu des dépendances référencées de D&D Beyond",
+  "Cancel editing": "Annuler l'édition",
+  "Debug": "Débogage",
+  "Editor": "Editeur",
+  "End of log file": "Fin du fichier journal"
 }
