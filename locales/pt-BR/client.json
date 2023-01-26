@@ -1803,5 +1803,6 @@
   "Your unique Creator ID is: {0}": "O seu ID de Criador único é: {0}",
   "Your World {0} has already been migrated to version {1}.": "O seu Mundo {0} já foi migrado para a versão {1}.",
   "Your World {0} has been upgraded to version {1} and can now be launched!": "O seu Mundo {0} foi actualizado para a versão {1} e pode agora ser lançado!",
-  "ZIP File": "Ficheiro ZIP"
+  "ZIP File": "Ficheiro ZIP",
+  "{{percent}}% of total capacity": "{{percent}}% de capacidade total"
 }
