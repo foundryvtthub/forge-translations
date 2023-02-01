@@ -264,7 +264,6 @@
   "ASSETS.items_one": "{{count}} artigo",
   "ASSETS.items_other": "{{count}} artigos",
   "ASSETS.UploadError": "Carregamento de erros $t(ASSETS.assets, {\"count\": {{assetsCount}} }) ({{- error}})",
-  "Assign Players": "Atribuir Jogadores",
   "Assign your Players to existing Foundry Users from your world.": "Atribua os seus Jogadores aos Utilizadores de Foundry existentes no seu mundo.",
   "At the moment, you can only purchase new license keys directly from Foundry VTT's website.": "Neste momento, só é possível adquirir novas chaves de licença directamente no sítio web da Foundry VTT.",
   "At the moment, you can only purchase new license keys directly from the Foundry VTT website.": "De momento, só é possível adquirir novas chaves de licença directamente no sítio web do Foundry VTT.",

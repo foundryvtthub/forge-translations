@@ -164,7 +164,6 @@
   "ASSETS.items_one": "{{count}} artículo",
   "ASSETS.items_other": "{{count}} artículos",
   "ASSETS.UploadError": "Error al cargar $t(ASSETS.assets, {\"count\": {{assetsCount}} }) ({{- error}})",
-  "Assign Forge Players to Foundry Users": "Asignar jugadores de Forge a usuarios de Foundry",
   "Assign your Players to existing Foundry Users from your world.": "Asigne sus jugadores a los usuarios de Foundry de su mundo.",
   "At the moment, you can only purchase new license keys directly from Foundry VTT's website.": "Por el momento, sólo puede adquirir nuevas claves de licencia directamente en el sitio web de Foundry VTT.",
   "At the moment, you can only purchase new license keys directly from the Foundry VTT website.": "Por el momento, sólo puede adquirir nuevas claves de licencia directamente en el sitio web de Foundry VTT.",

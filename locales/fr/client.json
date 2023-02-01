@@ -964,7 +964,6 @@
   "ASSETS.items_one": "{{count}} article/objet",
   "ASSETS.items_other": "{{count}} articles/objets",
   "ASSETS.UploadError": "Erreur en téléchargeant $t(ASSETS.assets, {\"count\": {{assetsCount}} }) ({{- error}})",
-  "Assign Forge Players to Foundry Users": "Affecter les joueurs de la Forge aux utilisateurs de Foundry",
   "Assign your Players to existing Foundry Users from your world.": "Attribuez vos joueurs aux utilisateurs Foundry existants de votre monde.",
   "At the moment, you can only purchase new license keys directly from Foundry VTT's website.": "Pour l'instant, vous ne pouvez acheter de nouvelles clés de licence que directement sur le site Web de Foundry VTT.",
   "At the moment, you can only purchase new license keys directly from the Foundry VTT website.": "Pour l'instant, vous ne pouvez acheter de nouvelles clés de licence que directement sur le site Web de Foundry VTT.",

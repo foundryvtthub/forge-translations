@@ -355,7 +355,6 @@
   "ASSETS.items_one": "{{count}} 品目",
   "ASSETS.items_other": "{{count}} 箇条書き",
   "ASSETS.UploadError": "Error uploading$t(ASSETS.assets, {\"count\": {{assetsCount}} }) ({{- error}})",
-  "Assign Forge Players to Foundry Users": "ForgeプレイヤーをFoundryユーザーに割り当てる",
   "Assign your Players to existing Foundry Users from your world.": "プレイヤーをあなたのワールドの既存のFoundryユーザーに割り当てる。",
   "At the moment, you can only purchase new license keys directly from Foundry VTT's website.": "現在、新しいライセンスキーは、Foundry VTTのウェブサイトから直接購入することしかできません。",
   "At the moment, you can only purchase new license keys directly from the Foundry VTT website.": "現在、新しいライセンスキーは、Foundry VTTのウェブサイトから直接購入することしかできません。",
