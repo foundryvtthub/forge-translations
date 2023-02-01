@@ -208,5 +208,6 @@
   "{{count}} KB_other": "{{count}} KB",
   "{{count}} MB_one": "{{count}} MB",
   "{{count}} TB_one": "{{count}} TB",
-  "{{count}} TB_other": "{{count}} TB"
+  "{{count}} TB_other": "{{count}} TB",
+  "Avatar": "Avatar"
 }
