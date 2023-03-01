@@ -209,5 +209,7 @@
   "{{count}} MB_one": "{{count}} MB",
   "{{count}} TB_one": "{{count}} TB",
   "{{count}} TB_other": "{{count}} TB",
-  "Avatar": "Avatar"
+  "Avatar": "Avatar",
+  "Title": "Títre",
+  "User has active roles, deletion forbidden": "L'utilisateur a des rôles actifs, suppression interdite"
 }
