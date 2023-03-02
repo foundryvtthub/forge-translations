@@ -211,5 +211,6 @@
   "{{count}} TB_other": "{{count}} TB",
   "Avatar": "Avatar",
   "Title": "Títre",
-  "User has active roles, deletion forbidden": "L'utilisateur a des rôles actifs, suppression interdite"
+  "User has active roles, deletion forbidden": "L'utilisateur a des rôles actifs, suppression interdite",
+  "Asset Packs": "Packs d'assets"
 }
