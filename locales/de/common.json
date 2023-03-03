@@ -39,7 +39,7 @@
   "Explorer Mode": "Entdecker-Modus",
   "Extras": "Extras",
   "FAQ": "FAQ",
-  "File size is above acceptable limits.": "Die Dateigröße liegt über den zulässigen Grenzen.",
+  "File size is above acceptable limits.": "Die Datei übersteigt die zulässige Größe.",
   "Finland": "Finnland",
   "Florida": "Florida",
   "France": "Frankreich",
@@ -99,7 +99,7 @@
   "North Dakota": "North Dakota",
   "Northwest Territories": "Nordwest-Territorien",
   "Norway": "Norwegen",
-  "Note:": "Anmerkung:",
+  "Note:": "Hinweis:",
   "Nova Scotia": "Neuschottland",
   "Now": "Jetzt",
   "Nunavut": "Nunavut",
@@ -209,5 +209,6 @@
   "{{count}} MB_one": "{{count}} MB",
   "{{count}} MB_other": "{{count}} MB",
   "{{count}} TB_one": "{{count}} TB",
-  "{{count}} TB_other": "{{count}} TB"
+  "{{count}} TB_other": "{{count}} TB",
+  "Title": "Titel"
 }
