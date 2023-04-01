@@ -733,7 +733,6 @@
   "Your password was changed successfully.": "Ihr Passwort wurde erfolgreich geändert.",
   "Your subscription payment has failed after multiple attempts. Please <a href=\"/account#billing\">pay your due invoice</a> to unlock your account.": "Die Zahlung Ihres Abonnements ist nach mehreren Versuchen fehlgeschlagen. Bitte zahlen Sie <a href=\"/account#billing\">Ihre fällige Rechnung</a>, um Ihr Konto freizuschalten.",
   "Your subscription payment has failed. Make sure your <a href=\"/account#billing\">payment details</a> are up to date to avoid service interruptions.": "Die Zahlung Ihres Abonnements ist fehlgeschlagen. Vergewissern Sie sich, dass Ihre <a href=\"/account#billing\">Zahlungsdaten</a> auf dem neuesten Stand sind, um Serviceunterbrechungen zu vermeiden.",
-  "Explorer": "Entdecker",
   "Export your games": "Exportieren Sie Ihre Spiele",
   "Exporting of data is not allowed while in Explorer mode": "Das Exportieren von Daten ist im Explorer-Modus nicht möglich",
   "Get a 14-day free trial": "14 Tage kostenlos testen",
