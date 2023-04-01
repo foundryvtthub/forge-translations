@@ -1461,7 +1461,6 @@
   "Processing payment…": "Traitement du paiement…",
   "Processing, please wait…": "Traitement, veuillez patienter…",
   "Processing…": "Traitement…",
-  "PROFILE_SUBSCRIPTION.Extras_other": "{{count}} Extras",
   "PROFILE_SUBSCRIPTION.TrialEndingHours": "Le procès se termine en $t(TIME.days, {\"count\": {{days}} })",
   "Project website": "Site web du projet",
   "Project Website": "Site web du projet",
