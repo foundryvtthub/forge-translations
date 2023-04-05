@@ -1235,7 +1235,6 @@
   "Print them out with the button available down below.": "下のボタンからプリントアウトしてください。",
   "Processing {{- filename}}": "加工方法{{- filename}}",
   "Processing…": "処理…",
-  "PROFILE_SUBSCRIPTION.TrialEndingHours": "でトライアル終了。$t(TIME.days, {\"count\": {{days}} })",
   "Project website": "プロジェクトサイト",
   "Project Website": "プロジェクトサイト",
   "Promote": "プロモート",
