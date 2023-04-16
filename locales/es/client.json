@@ -1480,14 +1480,14 @@
   "{{title}} on Foundry Hub": "{{title}} en Foundry Hub",
   "{{type}} {{- title}} deleted successfully": "{{type}} {{- title}} eliminado con éxito",
   "{{type}} deleted successfully": "{{type}} eliminado con éxito",
-  "{{version}} (Deprecated)": "{{version}} (obsoleto)",
+  "{{version}} (Deprecated)": "{{version}} (Obsoleto)",
   "{{world}}-restore": "{{world}}-restaurar",
   "{0} {1} features will also be enabled for you to try them out, and World Import and Data Export capabilities will be disabled during that time.": "{0} {1} también estarán habilitadas para que las pruebes, y las funciones de Importación Mundial y Exportación de Datos estarán deshabilitadas durante ese tiempo.",
   "{0} to install the extension, then {1} the page to try again.": "{0} para instalar la extensión, luego {1} la página para intentarlo de nuevo.",
   "1 Hour": "1 hora",
   "14-day free trial": "14 días de prueba gratuita",
-  "15 Minutes": "15 minutos",
-  "24 Hours": "24 horas",
+  "15 Minutes": "15 Minutos",
+  "24 Hours": "24 Horas",
   "2FA authenticator removal": "Eliminación del autenticador 2FA",
   "2FA code request": "Solicitud de código 2FA",
   "2FA recovery codes regeneration": "Regeneración de códigos de recuperación 2FA",
@@ -1754,5 +1754,7 @@
   "You are about to permanently delete the {{type}} Save Point {{-title}}.": "Está a punto de eliminar definitivamente el punto de guardado {{type}} {{-title}} .",
   "You are about to revert {0} to the {1} Save Point {{title}}.": "Está a punto de volver {0} al {1} Guardar punto {{title}}.",
   "You have {{autosaveCount}} autosaves on this world. The Forge will keep {{autosaveQuota}} autosaves per world.": "Tienes {{autosaveCount}} autoguardados en este mundo. La Forge guardará {{autosaveQuota}} autoguardados por mundo.",
-  "You have {{manualCount}} manual saves on this world. The Forge will keep all manual saves indefinitely.": "Tienes {{manualCount}} manual saves on this world. La Forge conservará todos los guardados manuales indefinidamente."
+  "You have {{manualCount}} manual saves on this world. The Forge will keep all manual saves indefinitely.": "Tienes {{manualCount}} manual saves on this world. La Forge conservará todos los guardados manuales indefinidamente.",
+  "(Showing {{count}} of {{total}})_other": "(Mostrando {{count}} de {{total}})",
+  "(Showing {{count}} of {{total}})_one": "(Mostrando {{count}} de {{total}})"
 }
