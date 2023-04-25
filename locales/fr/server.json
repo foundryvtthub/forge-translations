@@ -222,7 +222,7 @@
   "Background": "Contexte",
   "Bad request": "Mauvaise demande",
   "banned": "interdit",
-  "BANNED.Reason": "Raison : {{reason}}",
+  "BANNED.Reason": "Raison : {{- reason}}",
   "Create as many worlds as you want": "Créez autant de mondes que vous le souhaitez",
   "Cannot add yourself to the list of creators to share revenue with": "Vous ne pouvez pas vous ajouter à la liste des créateurs pour partager les revenus avec",
   "Cannot backup/restore a game from a different user": "Impossible de sauvegarder/restaurer une partie d'un utilisateur différent",

@@ -100,7 +100,7 @@
   "Bad request": "Bad request",
   "Bad Request": "Bad Request",
   "banned": "banned",
-  "BANNED.Reason": "Reason: {{reason}}",
+  "BANNED.Reason": "Reason: {{- reason}}",
   "Billing information is incomplete.": "Billing information is incomplete.",
   "Billing information is invalid.": "Billing information is invalid.",
   "Can only specify one of game or world": "Can only specify one of game or world",

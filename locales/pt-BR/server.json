@@ -117,7 +117,7 @@
   "Background": "Antecedentes",
   "Bad request": "Mau pedido",
   "banned": "banido",
-  "BANNED.Reason": "Motivo: {{reason}}",
+  "BANNED.Reason": "Motivo: {{- reason}}",
   "Billing information is incomplete.": "A informação de facturação está incompleta.",
   "Billing information is invalid.": "As informações de facturação são inválidas.",
   "Can only specify one of game or world": "Só pode especificar um de jogo ou do mundo",

@@ -183,7 +183,7 @@
   "Background": "Hintergrund",
   "Bad request": "Schlechte Anfrage",
   "banned": "Verboten",
-  "BANNED.Reason": "Der Grund: {{reason}}",
+  "BANNED.Reason": "Der Grund: {{- reason}}",
   "Cannot disable the downloadable flag after purchases have been made": "Das Kennzeichen für das Herunterladen kann nicht deaktiviert werden, nachdem Käufe getätigt worden sind",
   "Cannot enable 2FA before verifying your email address": "Du kannst 2FA erst aktivieren, nachdem du deine E-Mail-Adresse bestätigt hast",
   "Cannot find content in backup": "Inhalt im Backup nicht gefunden",

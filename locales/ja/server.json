@@ -120,7 +120,7 @@
   "Background": "背景",
   "Bad request": "バッドリクエスト",
   "banned": "きんしぎょくよう",
-  "BANNED.Reason": "理由{{reason}}",
+  "BANNED.Reason": "理由{{- reason}}",
   "Billing information is incomplete.": "課金情報に不備がある。",
   "Billing information is invalid.": "課金情報が無効です。",
   "Can only specify one of game or world": "ゲームとワールドのどちらか一方しか指定できない",
