@@ -234,6 +234,7 @@
   "Error updating Discourse topic: ({{response.code}}) {{response.error}}": "Error updating Discourse topic: ({{response.code}}) {{response.error}}",
   "Error uploading object to library": "Error uploading object to library",
   "Error writing license file: {{- error}}": "Error writing license file: {{- error}}",
+  "ERROR.InstallInProgress": "Package installation in progress, please try again in a few minutes…",
   "Expected zip file": "Expected zip file",
   "Expired verification code": "Expired verification code",
   "Explore": "Explore",
