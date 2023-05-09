@@ -369,7 +369,6 @@
   "Game settings updated successfully": "Les paramètres de la partie ont été mis à jour avec succès",
   "GAME.PrivateNotInvited": "Cette partie est privée {{- infoLink}} et vous n'y avez pas été invité.",
   "GAME.PrivateNotLoggedIn": "Cette partie est privée {{- infoLink}} et vous devez {{- loginLink}} pour y accéder.",
-  "Games": "Parties",
   "GAMES.LinkToLFG": "Sinon, n'hésitez pas à parcourir ou à poster dans notre catégorie de forum {{- forumLink}}.",
   "Gargantuan data storage quotas": "Des quotas de stockage de données gigantesques",
   "Generous data storage quotas": "Des quotas de stockage de données généreux",

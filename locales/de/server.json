@@ -332,7 +332,6 @@
   "Game settings updated successfully": "Spieleinstellungen erfolgreich aktualisiert",
   "GAME.PrivateNotInvited": "Dieses Spiel ist privat {{- infoLink}} und Sie wurden nicht dazu eingeladen.",
   "GAME.PrivateNotLoggedIn": "Dieses Spiel ist privat {{- infoLink}} und Sie müssen {{- loginLink}} aufrufen, um darauf zuzugreifen.",
-  "Games": "Spiele",
   "GAMES.LinkToLFG": "Alternativ dazu können Sie auch in unserer Forumskategorie {{- forumLink}} stöbern oder einen Beitrag verfassen.",
   "Gargantuan data storage quotas": "Gigantische Datenspeicherkontingente",
   "Generous data storage quotas": "Großzügige Datenspeicherkontingente",
