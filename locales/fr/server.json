@@ -211,7 +211,7 @@
   "Assets Library is currently undergoing maintenance. Please try again shortly.": "Assets Library est actuellement en cours de maintenance. Veuillez réessayer sous peu.",
   "Assets Quota Increase": "Augmentation des quotas d'assets",
   "ASSETS.QuotaRemaining": "Vous disposez de {{quotaRemaining}} disponibles…",
-  "ASSETS.QuotaTotal": "Votre quota d'assets est de : {{totalQuota}}.",
+  "ASSETS.QuotaTotal": "Votre quota d'assets est de : {{quotaTotal}}.",
   "Authentication code cannot be blank.": "Le code d'authentification ne peut pas être laissé vide.",
   "Authentication expired.": "L'authentification a expiré.",
   "Authorize": "Autoriser",
