@@ -1398,7 +1398,7 @@
   "SUBSCRIPTION_LIST.CancelExtrasDate": "Cancele a sua subscrição Extra quando esta terminar em {{date}}",
   "SUBSCRIPTION_LIST.CancelForgeBeforeStartDate": "Cancele a sua assinatura da Forge antes de esta começar em {{date}}",
   "SUBSCRIPTION_LIST.CancelForgeWhenEndDate": "Cancele a sua assinatura da Forge quando esta terminar em {{date}}",
-  "SUBSCRIPTION_LIST.PlanExpiresDate": "Expira em {{expirationDate}}",
+  "SUBSCRIPTION_LIST.PlanExpiresDate": "Expira em {{date}}",
   "SUBSCRIPTION_LIST.PlanRenewsCycle": "O seu plano é renovado {{cycleText}}",
   "SUBSCRIPTION_LIST.PlanRenewsDate": "Este plano renova-se em {{date}}",
   "SUBSCRIPTION_LIST.PlanStartsDate": "Este plano começa em {{date}}",
