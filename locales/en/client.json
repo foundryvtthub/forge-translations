@@ -1709,7 +1709,7 @@
   "SUBSCRIPTION_LIST.CancelExtrasDate": "Cancel your Extra subscription when it ends on {{date}}",
   "SUBSCRIPTION_LIST.CancelForgeBeforeStartDate": "Cancel your Forge subscription before it starts on {{date}}",
   "SUBSCRIPTION_LIST.CancelForgeWhenEndDate": "Cancel your Forge subscription when it ends on {{date}}",
-  "SUBSCRIPTION_LIST.PlanExpiresDate": "Expires on {{expirationDate}}",
+  "SUBSCRIPTION_LIST.PlanExpiresDate": "Expires on {{date}}",
   "SUBSCRIPTION_LIST.PlanRenewsCycle": "Your plan renews {{cycleText}}",
   "SUBSCRIPTION_LIST.PlanRenewsDate": "This plan renews on {{date}}",
   "SUBSCRIPTION_LIST.PlanStartsDate": "This plan starts on {{date}}",
