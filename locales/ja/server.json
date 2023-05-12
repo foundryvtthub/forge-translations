@@ -108,7 +108,7 @@
   "Ask your Game Master for the invitation link": "ゲームマスターに招待状のリンクを聞いてください",
   "Assets Library is currently undergoing maintenance. Please try again shortly.": "現在、アセットライブラリーはメンテナンス中です。しばらくしてから、もう一度お試しください。",
   "ASSETS.QuotaRemaining": "{{quotaRemaining}} が用意されていますね...。",
-  "ASSETS.QuotaTotal": "あなたのアセットクォータは:{{totalQuota}}.",
+  "ASSETS.QuotaTotal": "あなたのアセットクォータは:{{quotaTotal}}.",
   "Authentication code cannot be blank.": "認証コードは空白にできません。",
   "Authentication expired.": "認証が切れました。",
   "Authorize": "オーソライズ",
