@@ -83,7 +83,7 @@
   "SUBSCRIPTION_LIST.CancelExtrasDate": "Annulez votre abonnement Extra lorsqu'il prend fin le {{date}}",
   "SUBSCRIPTION_LIST.CancelForgeBeforeStartDate": "Annulez votre abonnement à Forge avant qu'il ne commence le {{date}}",
   "SUBSCRIPTION_LIST.CancelForgeWhenEndDate": "Annulez votre abonnement à Forge lorsqu'il prend fin le {{date}}",
-  "SUBSCRIPTION_LIST.PlanExpiresDate": "Expire le {{expirationDate}}",
+  "SUBSCRIPTION_LIST.PlanExpiresDate": "Expire le {{date}}",
   "SUBSCRIPTION_LIST.PlanRenewsCycle": "Votre plan est renouvelé {{cycleText}}",
   "SUBSCRIPTION_LIST.PlanRenewsDate": "Ce plan est renouvelé le {{date}}",
   "Total": "Total",
