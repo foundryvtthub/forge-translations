@@ -491,7 +491,7 @@
   "Assets Library is currently undergoing maintenance. Please try again shortly.": "La Biblioteca de Activos se encuentra actualmente en mantenimiento. Vuelva a intentarlo en breve.",
   "Assets Quota Increase": "Aumento de la cuota de activos",
   "ASSETS.QuotaRemaining": "Tienes {{quotaRemaining}} disponible…",
-  "ASSETS.QuotaTotal": "Su cuota de activos es: {{totalQuota}}.",
+  "ASSETS.QuotaTotal": "Su cuota de activos es: {{quotaTotal}}.",
   "Authentication code cannot be blank.": "El código de autenticación no puede estar en blanco.",
   "If an account exists with that username/email, instructions on how to reset the password of the account were sent to the email address of the account.": "Si existe una cuenta con ese nombre de usuario/correo electrónico, se enviaron a la dirección de correo electrónico de la cuenta instrucciones sobre cómo restablecer la contraseña de la cuenta.",
   "If you did not request this, or did it by mistake, please ignore this email and your 2FA will remain unchanged.": "Si no lo solicitaste, o lo hiciste por error, por favor ignora este email y tu 2FA permanecerá sin cambios.",

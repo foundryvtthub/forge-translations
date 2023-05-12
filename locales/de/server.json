@@ -172,7 +172,7 @@
   "Assets Library is currently undergoing maintenance. Please try again shortly.": "Die Asset-Bibliothek wird derzeit gewartet. Bitte versuche es in Kürze erneut.",
   "Assets Quota Increase": "Vermögenswerte Quotenerhöhung",
   "ASSETS.QuotaRemaining": "Dir stehen {{quotaRemaining}} zur Verfügung…",
-  "ASSETS.QuotaTotal": "Ihr Vermögenskontingent ist: {{totalQuota}}.",
+  "ASSETS.QuotaTotal": "Ihr Vermögenskontingent ist: {{quotaTotal}}.",
   "Authentication code cannot be blank.": "Der Authentifizierungscode darf nicht leer sein.",
   "Authentication expired.": "Die Authentifizierung ist abgelaufen.",
   "Authorize": "Autorisieren Sie",
