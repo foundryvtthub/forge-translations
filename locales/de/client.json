@@ -679,7 +679,7 @@
   "Submit": "Einreichen",
   "Subscribe": "Abonnieren",
   "SUBSCRIPTION_LIST.CancelForgeWhenEndDate": "Kündigen Sie Ihr Forge-Abonnement, wenn es endet am {{date}}",
-  "SUBSCRIPTION_LIST.PlanExpiresDate": "Läuft ab am {{expirationDate}}",
+  "SUBSCRIPTION_LIST.PlanExpiresDate": "Läuft ab am {{date}}",
   "SUBSCRIPTION_LIST.PlanRenewsCycle": "Ihr Plan erneuert sich {{cycleText}}",
   "SUBSCRIPTION_LIST.PlanRenewsDate": "Dieser Plan erneuert sich am {{date}}",
   "SUBSCRIPTION_LIST.PlanStartsDate": "Dieser Plan beginnt am {{date}}",
