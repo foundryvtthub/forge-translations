@@ -1380,7 +1380,7 @@
   "SUBSCRIPTION_LIST.CancelExtrasDate": "エクストラの契約が終了したら、解約する{{date}}",
   "SUBSCRIPTION_LIST.CancelForgeBeforeStartDate": "Forgeの購読を開始前にキャンセルするには{{date}}",
   "SUBSCRIPTION_LIST.CancelForgeWhenEndDate": "Forgeの利用期間が終了したら、解約してください。{{date}}",
-  "SUBSCRIPTION_LIST.PlanExpiresDate": "有効期限{{expirationDate}}",
+  "SUBSCRIPTION_LIST.PlanExpiresDate": "有効期限{{date}}",
   "SUBSCRIPTION_LIST.PlanRenewsCycle": "プランが更新されます{{cycleText}}",
   "SUBSCRIPTION_LIST.PlanRenewsDate": "このプランの更新日は{{date}}",
   "SUBSCRIPTION_LIST.PlanStartsDate": "このプランの開始日は{{date}}",
