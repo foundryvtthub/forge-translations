@@ -201,7 +201,7 @@
   "Asset": "Asset",
   "Asset files are never deleted even if renamed or deleted in a future update, as a user might have selected it for one of their maps/tokens/etc… and renaming or removing the asset could break their game.": "Asset files are never deleted even if renamed or deleted in a future update, as a user might have selected it for one of their maps/tokens/etc… and renaming or removing the asset could break their game.",
   "Asset packs are currently only browsable from within Foundry's file browser, under {0} tab.": "Asset packs are currently only browsable from within Foundry's file browser, under {0} tab.",
-  "Asset Quota": "Quota de ressource",
+  "Asset Quota": "Asset Quota",
   "Assets Library (200+ locations)": "Assets Library (200+ locations)",
   "Assets Library Controls": "Assets Library Controls",
   "Assets Library:": "Assets Library:",
