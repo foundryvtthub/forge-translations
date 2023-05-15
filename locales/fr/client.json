@@ -1977,5 +1977,6 @@
   "Manage Users": "Gérer les utilisateurs",
   "Managed users": "Utilisateurs gérés",
   "Multimedia": "Multimedia",
-  "This folder and subfolders": "Dans ce dossier et ses sous-dossiers"
+  "This folder and subfolders": "Dans ce dossier et ses sous-dossiers",
+  "{{failureLabel}} failed to copy. {{successLabel}} copied successfully.": "Échec de la copie de {{failureLabel}}. {{successLabel}} a été copié avec succès."
 }
