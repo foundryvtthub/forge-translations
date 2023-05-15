@@ -1978,5 +1978,7 @@
   "Managed users": "Utilisateurs gérés",
   "Multimedia": "Multimedia",
   "This folder and subfolders": "Dans ce dossier et ses sous-dossiers",
-  "{{failureLabel}} failed to copy. {{successLabel}} copied successfully.": "Échec de la copie de {{failureLabel}}. {{successLabel}} a été copié avec succès."
+  "{{failureLabel}} failed to copy. {{successLabel}} copied successfully.": "Échec de la copie de {{failureLabel}}. {{successLabel}} a été copié avec succès.",
+  "If you unsubscribe from the creator's Patreon or downgrade below the permitted tiers, you will lose access to future package updates.": "Si vous interrompez votre abonnement au Patreon du créateur ou si vous passez à un palier inférieur au minimum requis, vous perdrez l'accès aux futures mises à jour du module.",
+  "If you wish to share access to this package with another Patreon's subscribers, please contact {0}": "Si vous désirez donner accès à ce module aux abonnés d'un autre Patreon, veuillez contacter {0}"
 }
