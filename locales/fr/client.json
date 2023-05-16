@@ -645,7 +645,7 @@
   "Error retrieving data: {{- error}}": "Erreur lors de la récupération des données : {{- error}}",
   "Error retrieving EULA terms: {{- error}}": "Erreur lors de la récupération des termes du CLUF : {{- error}}",
   "Error retrieving profile information: {{- error}}": "Erreur lors de la récupération des informations de profil : {{- error}}",
-  "Error retrieving upcoming user invoice: {{- error}}": "Erreur de récupération de la facture de l'utilisateur à venir : {{- error}}",
+  "Error retrieving upcoming user invoice: {{- error}}": "Erreur de récupération de la prochaine facture de l'utilisateur : {{- error}}",
   "Error retrieving your billing information: {{- error}}": "Erreur lors de la récupération de vos informations de facturation : {{- error}}",
   "Saving your payment details, please wait…": "Enregistrement des détails de votre paiement, veuillez attendre…",
   "Saving…": "Sauver…",
