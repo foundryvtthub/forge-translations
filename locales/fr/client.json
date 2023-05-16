@@ -2127,5 +2127,20 @@
   "You must set a new password to make any changes to your profile": "Vous devez définir un nouveau mot de passe pour apporter des modifications à votre profil",
   "You must set your URL before you can view your profile": "Vous devez définir votre URL avant de pouvoir consulter votre profil",
   "Your Patreon subscription allows you to install this package": "Votre abonnement Patreon vous permet d'installer ce package",
-  "Your slots will be increased to {slots}": "Vos emplacements seront augmentés à {slots}"
+  "Your slots will be increased to {slots}": "Vos emplacements seront augmentés à {slots}",
+  "Force game idling?": "Forcer la partie à passer en veille ?",
+  "Install from Patreon": "Installer à partir de Patreon",
+  "Integration Slots:": "Emplacements d'intégration :",
+  "Linking your account with Patreon can unlock additional features or give access to specific Patreon-exclusive content in the {0}.": "En liant votre compte avec Patréon, vous pourrez débloquer des options supplémentaires ou donner accès à certains contenus spécifiques réservés à Patreon dans le/la {0}.",
+  "Marketplace pricing": "Prix dans la boutique",
+  "License removal": "Suppression d'une licence",
+  "Log viewer": "Afficheur de log",
+  "KEY_A": "touche A",
+  "KEY_CTRL": "touche Ctrl",
+  "KEY_DEL": "touche Suppr",
+  "KEY_ESC": "touche Échap",
+  "KEY_SHIFT": "touche Maj",
+  "KEY_V": "touche V",
+  "Making these changes will result in additional slots being added to your account, which will result in additional fees on {0}.": "Ces modifications entraîneront l'ajout d'emplacements supplémentaires dans votre compte et donc des frais supplémentaires le {0}.",
+  "Moving…": "Déplacement en cours…"
 }
