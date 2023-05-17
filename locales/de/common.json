@@ -213,5 +213,6 @@
   "Title": "Titel",
   "Games": "Spiele",
   "Language": "Sprache",
-  "User has active roles, deletion forbidden": "Der Benutzer besitzt aktive Rollen, Löschen nicht möglich"
+  "User has active roles, deletion forbidden": "Der Benutzer besitzt aktive Rollen, Löschen nicht möglich",
+  "Asset Packs": "Asset-Pakete"
 }
