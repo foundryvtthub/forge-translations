@@ -450,7 +450,7 @@
   "Only the GM or game owner can assign roles.": "Nur der GM oder der Spieleigentümer kann Rollen zuweisen.",
   "or open the link below": "oder öffnen Sie den folgenden Link",
   "Organization": "Organisation",
-  "Our story, our team, our adventure.": "Unsere Geschichte, unser Team, unser Abenteuer.",
+  "Our story, our team, our adventure.": "Unsere Geschichte, {{- ourTeam}}, unser Abenteuer.",
   "Our unique “Assets Library” self-optimizing storage": "Unsere einzigartige selbstoptimierende \"Assets Library\"",
   "Package contains more than one {{type}}.": "Das Paket enthält mehr als eine {{type}}.",
   "Package version not found.": "Paketversion nicht gefunden.",

@@ -486,7 +486,7 @@
   "Only the GM or game owner can assign roles.": "Seul le MJ ou le propriétaire du jeu peut attribuer des rôles.",
   "or open the link below": "ou ouvrez le lien ci-dessous",
   "Organization": "Organisation",
-  "Our story, our team, our adventure.": "Notre histoire, notre équipe, notre aventure.",
+  "Our story, our team, our adventure.": "Notre histoire, {{- ourTeam}}, notre aventure.",
   "Our unique “Assets Library” self-optimizing storage": "Notre système unique de stockage auto-optimisé \"Assets Library\".",
   "Package contains more than one {{type}}.": "Le paquet contient plus d'un {{type}}.",
   "Package version not found.": "Version du paquet non trouvée.",

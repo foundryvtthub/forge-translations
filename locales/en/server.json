@@ -452,7 +452,7 @@
   "Operation already in progress": "Operation already in progress",
   "or open the link below": "or open the link below",
   "Organization": "Organization",
-  "Our story, our team, our adventure.": "Our story, our team, our adventure.",
+  "Our story, our team, our adventure.": "Our story, {{- ourTeam}}, our adventure.",
   "Our unique “Assets Library” self-optimizing storage": "Our unique “Assets Library” self-optimizing storage",
   "Package contains more than one {{type}}.": "Package contains more than one {{type}}.",
   "Package version not found.": "Package version not found.",

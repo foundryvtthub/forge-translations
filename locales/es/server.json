@@ -522,7 +522,7 @@
   "Operation already in progress": "Operación ya en curso",
   "or open the link below": "o abra el siguiente enlace",
   "Organization": "Organización",
-  "Our story, our team, our adventure.": "Nuestra historia, nuestro equipo, nuestra aventura.",
+  "Our story, our team, our adventure.": "Nuestra historia, {{- ourTeam}}, nuestra aventura.",
   "Our unique “Assets Library” self-optimizing storage": "Nuestra exclusiva \"Biblioteca de activos\" autooptimiza el almacenamiento",
   "Package contains more than one {{type}}.": "El paquete contiene más de un {{type}}.",
   "Package version not found.": "No se ha encontrado la versión del paquete.",
