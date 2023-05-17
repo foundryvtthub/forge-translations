@@ -438,7 +438,7 @@
   "Operation already in progress": "すでに動作中",
   "or open the link below": "または、以下のリンクを開いてください。",
   "Organization": "組織図",
-  "Our story, our team, our adventure.": "私たちの物語、私たちのチーム、私たちの冒険。",
+  "Our story, our team, our adventure.": "私たちの物語、{{- ourTeam}}、私たちの冒険。",
   "Our unique “Assets Library” self-optimizing storage": "当社独自の自己最適化ストレージ「アセットライブラリ",
   "Package contains more than one {{type}}.": "パッケージには1つ以上の{{type}} 。",
   "Package version not found.": "パッケージのバージョンが見つかりません。",
