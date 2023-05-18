@@ -475,7 +475,7 @@
   "Are you sure you want to enable the User Manager?": "Êtes-vous sûr de vouloir activer le gestionnaire des utilisateurs ?",
   "Are you sure you want to give up the added security?": "Êtes-vous sûr de vouloir renoncer à cette sécurité supplémentaire ?",
   "Are you sure you want to remove {{- name}} from this game?<br/>Your Game Invitation link will automatically be reset.": "Êtes-vous sûr de vouloir retirer {{- name}} de cette partie ?<br/>Votre lien d'invitation dans la partie sera automatiquement réinitialisé.",
-  "Are you sure you want to rename the {{type}} '{0}'": "Êtes-vous sûr de vouloir renommer le {{type}} '{0}' ?",
+  "Are you sure you want to rename the {{type}} '{0}'": "Êtes-vous sûr de vouloir renommer le {{type}} '{0}'",
   "Are you sure you want to renew the current subscription?": "Êtes-vous sûr de vouloir renouveler l'abonnement actuel ?",
   "Are you sure you want to reset the player passwords in Foundry?": "Êtes-vous sûr de vouloir réinitialiser les mots de passe des joueurs dans Foundry ?",
   "Are you sure you want to uninstall the version locked {{type}} {{- title}}?.": "Êtes-vous sûr de vouloir désinstaller la version verrouillée de {{type}} {{- title}} ?",
@@ -2161,5 +2161,15 @@
   "Tiers": "Paliers",
   "Total integration costs: {0}": "Coûts d'intégration totaux : {0}",
   "User removal": "Suppression de l'utilisateur",
-  "Username, email, license, game link or invitation link": "Nom d'utilisateur, adresse mail, licence, lien vers la partie ou lien d'invitation"
+  "Username, email, license, game link or invitation link": "Nom d'utilisateur, adresse mail, licence, lien vers la partie ou lien d'invitation",
+  "On Sale": "En soldes",
+  "Sale": "Soldes",
+  "Sale!": "Soldes !",
+  "USER_ROLES.developer-wb": "Développeur (Bâtisseur de monde)",
+  "USER_ROLES.sponsored-game-master": "Maître du jeu sponsorisé",
+  "USER_ROLES.sponsored-story-teller": "Conteur sponsorisé",
+  "USER_ROLES.sponsored-world-builder": "Bâtisseur de monde sponsorisé",
+  "Sales": "Soldes",
+  "Skip": "Passer",
+  "View balance": "Voir le solde"
 }
