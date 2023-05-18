@@ -1757,7 +1757,7 @@
   "Debug": "Débogage",
   "Editor": "Editeur",
   "End of log file": "Fin du fichier journal",
-  "{{count}} files selected for upload_one": "{{count}} fichiers sélectionnés pour téléversement",
+  "{{count}} files selected for upload_one": "{{count}} fichier(s) sélectionné(s) pour téléversement",
   "{{ignoredCount}} assets will not be copied because they already exist at the destination": "{{ignoredCount}} éléments ne seront pas copiés car il existent déjà dans le répertoire de destination",
   "Error finding users: {{- error}}": "Erreur lors de la recherche de l'utilisateur : {{- error}}",
   "{{count}} Extra_one": "{{count}} Extra",
