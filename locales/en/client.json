@@ -1976,6 +1976,7 @@
   "USER_ROLES.developer": "Developer",
   "USER_ROLES.developer-wb": "Developer (World Builder)",
   "USER_ROLES.moderator": "Moderator",
+  "USER_ROLES.translator": "Translator",
   "USER_ROLES.sponsored-dndbeyond": "Sponsored D&D Beyond",
   "USER_ROLES.sponsored-game-master": "Sponsored Game Master",
   "USER_ROLES.sponsored-story-teller": "Sponsored Story Teller",
