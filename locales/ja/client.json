@@ -1352,7 +1352,6 @@
   "Submit": "提出",
   "Subscribe": "サブスクライブ",
   "subscription": "サブスクリプション",
-  "SUBSCRIPTION_LIST.PlanStartsDate": "このプランの開始日は{{date}}",
   "SUCCESS.WorldClonedSuccessfully": "世界初のクローン技術に成功",
   "SUCCESS.WorldCreatedSuccessfully": "ワールドクリエイト成功",
   "The {{exchangeCurrencyDisplay}} amounts displayed above are an estimate and for your convenience only.": "上記で表示される{{exchangeCurrencyDisplay}} の金額は、あくまで目安であり、便宜上のものです。",
