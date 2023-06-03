@@ -1,5 +1,4 @@
 {
-  "Saint Martin": "San Martín",
   "Sale price must be less than regular price": "El precio de venta debe ser inferior al precio normal",
   "Sales Policy/FAQ": "Política de ventas/FAQ",
   "You are not authorized to set player assignments.": "No está autorizado a establecer asignaciones de jugadores.",
@@ -52,7 +51,6 @@
   "Advanced user management": "Gestión avanzada de usuarios",
   "Adventure Log (Blog)": "Diario de aventuras (Blog)",
   "Ain't gonna happen!": "¡No va a pasar!",
-  "Aland Islands": "Islas Aland",
   "All Game Master & Story Teller features, <b>plus</b>:": "Todas las características de Game Master & Story Teller, <b>plus</b>:",
   "All Game Master &amp; Story Teller features, <strong>plus</strong>": "Todas las funciones de Game Master &amp; Story Teller, <strong>más</strong>",
   "All Game Master features, <strong>plus</strong>:": "Todas las funciones de Game Master, <strong>más</strong>:",
@@ -74,7 +72,6 @@
   "Can't find selected plan ({{priceId}})": "No encuentro el plan seleccionado ({{priceId}})",
   "Can't find selected plan ({{sub.type}}, {{sub.code}}, {{sub.cycle}})": "No se encuentra el plan seleccionado ({{sub.type}}, {{sub.code}}, {{sub.cycle}})",
   "Can't find user or push license": "No se encuentra el usuario ni la licencia push",
-  "Canary Islands": "Islas Canarias",
   "Cannot access Foundry's setup page: {{reason}}. {{moreInfo}}.": "No se puede acceder a la página de configuración de Foundry: {{reason}}. {{moreInfo}}.",
   "Cannot access Foundry's setup page.": "No se puede acceder a la página de configuración de Foundry.",
   "Cannot access Foundry's setup page. {{moreInfo}}.": "No se puede acceder a la página de configuración de Foundry. {{moreInfo}}.",
