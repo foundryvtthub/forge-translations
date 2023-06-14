@@ -332,7 +332,7 @@
   "Failure to download package from URL": "Échec du téléchargement du pack à partir de l'URL",
   "features list": "liste des fonctionnalités",
   "Fight Goblins, not Servers": "Combattez les gobelins, pas les serveurs",
-  "Fight&nbsp;Goblins, not&nbsp;Servers&trade;": "Combattez&nbsp;les gobelins, pas&nbsp;les serveurs&nbsp;le commerce ;",
+  "Fight&nbsp;Goblins, not&nbsp;Servers&trade;": "Combattez&nbsp;les&nbsp;gobelins, pas&nbsp;les&nbsp;serveurs&trade;",
   "File already exists": "Le fichier existe déjà",
   "File Deleted": "Fichier supprimé",
   "File hash is missing": "Le hachage du fichier est manquant",
@@ -805,5 +805,11 @@
   "You are not authorized to retrieve users.": "Vous n'êtes pas autorisé à récupérer des utilisateurs.",
   "You are not authorized to update users.": "Vous n'êtes pas autorisé à mettre à jour des utilisateurs.",
   "You cannot delete the root assets folder.": "Vous ne pouvez pas supprimer le dossier racine des fichiers.",
-  "Invalid arguments": "arguments invalides"
+  "Invalid arguments": "arguments invalides",
+  "Error while applying user updates:": "Erreur pendant l'application des mises à jour de l'utilisateur :",
+  "Can’t set telemetry preference without a game": "Impossible d'activer la télémétrie sans partie",
+  "Cannot write to users.db for Foundry v11 and later.": "Impossible d'écrire dans users.db pour Foundry v11 ou une version ultérieure.",
+  "Error opening database: {{- error}}": "Erreur lors de l'ouverture de la base de donnée : {{- error}}",
+  "Error reading users:": "Erreur pendant la lecture des utilisateurs :",
+  "Failed to create users database": "Échec lors de la création de la base de données utilisateurs"
 }
