@@ -37,7 +37,6 @@
   "Game Manager": "Gerenciador de jogo",
   "Game Master": "Mestre de Jogo",
   "Georgia": "Geórgia",
-  "Guadeloupe": "Guadalupe",
   "Hawaii": "Havaí",
   "Idaho": "Idaho",
   "Illinois": "Illinois",
@@ -105,7 +104,6 @@
   "Private Game": "Jogo Privado",
   "Quebec": "Quebec",
   "Rhode Island": "Rhode Island",
-  "Saint Pierre and Miquelon": "São Pedro e Miquelon",
   "Sales Policy": "Política de vendas",
   "Saskatchewan": "Saskatchewan",
   "Save Points": "Pontos de Salvamento",
@@ -171,5 +169,9 @@
   "Avatar": "Avatar",
   "Explorer": "Explorador",
   "LANGUAGE.es": "Español (Espanhol)",
-  "{{count}} GB_other": "{{count}} GB"
+  "{{count}} GB_other": "{{count}} GB",
+  "Games": "Jogos",
+  "Help": "Ajuda",
+  "Language": "Linguagem",
+  "Privacy Policy": "Politica de privacidade"
 }
