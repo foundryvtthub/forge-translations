@@ -1,10 +1,10 @@
 {
+  "(no limit on number of worlds)": "(sem limite de número de mundos)",
   ", which lets you join other people's private games and gives you your personal assets library.": "que lhe permite juntar-se aos jogos privados de outras pessoas e lhe dá a sua biblioteca de assets pessoais.",
-  "(no limit on number of worlds)": "(sem limite do número de mundos)",
   "[Bazaar] Package ready for review: {{pkg.title}}": "[Pacote pronto para revisão: {{pkg.title}}",
   "[The Forge] Password reset": "[A Forge] Reinicialização da palavra-passe",
-  "[The Forge] Verify your email address": "[Verifique o seu endereço de correio electrónico",
-  "{{- data.title}} version {{data.version}} does not specify a compatibleCoreVersion and may not work with Foundry VTT version {{coreVersion}}": "{{- data.title}} versão {{data.version}} não especifica uma versãoCoreVersion compatível e pode não funcionar com a versão Foundry VTT {{coreVersion}}",
+  "[The Forge] Verify your email address": "Verifique o seu endereço de correio eletrônico",
+  "{{- data.title}} version {{data.version}} does not specify a compatibleCoreVersion and may not work with Foundry VTT version {{coreVersion}}": "{{- data.title}} versão {{data.version}} não especifica uma CoreVersion compatível e pode não funcionar com a versão do Foundry VTT {{coreVersion}}",
   "{{- data.title}} version {{data.version}} may not be compatible with Foundry VTT versions newer than {{data.compatibleCoreVersion}}": "{{- data.title}} versão {{data.version}} pode não ser compatível com as versões do Foundry VTT mais recentes do que {{data.compatibleCoreVersion}}",
   "{{type}} is not available in the Forge {{- bazaarLink}}. Foundry VTT will install the package.": "{{type}} não está disponível no Forge {{- bazaarLink}}. O VTT da Foundry instalará o pacote.",
   "{{type}} is not installed. Cannot lock/unlock package.": "{{type}} não está instalado. Não é possível bloquear/desbloquear o pacote.",

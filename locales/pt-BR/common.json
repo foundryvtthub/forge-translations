@@ -34,10 +34,8 @@
   "Game Data": "Dados do jogo",
   "Game Manager": "Gerenciador de jogo",
   "Game Master": "Mestre de Jogo",
-  "Games": "Games",
   "Georgia": "Geórgia",
   "Hawaii": "Havaí",
-  "Help": "Ajuda",
   "Idaho": "Idaho",
   "Illinois": "Illinois",
   "Indiana": "Indiana",
@@ -53,7 +51,6 @@
   "LANGUAGE.fr": "Français (Francês)",
   "LANGUAGE.ja": "日本語 (Japonês)",
   "LANGUAGE.pt-BR": "Portugues do Brasil",
-  "Language": "Language",
   "Launch My Foundry": "Lançar Meu Foundry",
   "Loading…": "Carregando…",
   "Louisiana": "Luisiana",
@@ -104,7 +101,6 @@
   "Please confirm your password": "Por favor, confirme a sua senha",
   "Please enter a username": "Por favor, digite um nome de usuário",
   "Prince Edward Island": "Ilha do Príncipe Eduardo",
-  "Privacy Policy": "Privacy Policy",
   "Private Game": "Jogo Privado",
   "Quebec": "Quebec",
   "Rhode Island": "Rhode Island",
@@ -182,5 +178,9 @@
   "{{count}} TB_many": "{{count}} TB_many",
   "{{count}} TB_one": "{{count}} TB",
   "{{count}} TB_other": "{{count}} TB",
-  "{{title}} (Restored from {{date}})": "{{title}} (Restaurado a partir de {{date}})"
+  "{{title}} (Restored from {{date}})": "{{title}} (Restaurado a partir de {{date}})",
+  "Games": "Jogos",
+  "Help": "Ajuda",
+  "Language": "Linguagem",
+  "Privacy Policy": "Politica de privacidade"
 }
