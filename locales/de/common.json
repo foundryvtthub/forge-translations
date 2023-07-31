@@ -1,5 +1,4 @@
 {
-  "ASSETS.MaxUploadSize": "Maximale Asset-Upload-Größe: {{upload}} pro Datei",
   "Alabama": "Alabama",
   "Alaska": "Alaska",
   "Alberta": "Alberta",
@@ -163,6 +162,11 @@
   "if billed monthly": "bei monatlicher Abrechnung",
   "month": "Monat",
   "yearly": "Jährlich",
+  "ASSETS.MaxUploadLabel": "Maximale Asset-Upload-Größe",
+  "ASSETS.MaxUploadSize": "{0} pro Datei",
+  "Lithuania": "Litauen",
+  "Luxembourg": "Luxemburg",
+  "Malta": "Malta",
   "{{count}} Bytes_one": "{{count}} Byte",
   "{{count}} Bytes_other": "{{count}} Bytes",
   "{{count}} GB_one": "{{count}} GB",
