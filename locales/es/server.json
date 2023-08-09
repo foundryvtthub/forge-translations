@@ -345,7 +345,6 @@
   "Invalid name. Must be 3 characters or longer": "Invalid name. Must be 3 characters or longer",
   "Invalid or already active Two-Factor Authentication": "Autenticación de dos factores no válida o ya activa",
   "Invalid or expired password reset token": "Ficha de restablecimiento de contraseña no válida o caducada",
-  "Invalid or unsupported version": "Versión no válida o no compatible",
   "Invalid package": "Invalid package",
   "Invalid package name": "Nombre de paquete no válido",
   "Invalid package name (cannot have spaces or '/' in it): '{{packageId}}'": "Nombre de paquete no válido (no puede contener espacios ni '/'): '{{packageId}}'",
@@ -799,6 +798,7 @@
   "Your Investigation check failed and you only find emptiness…": "Tu chequeo de Investigación falló y sólo encuentras vacío…",
   "Your Limited Time Demo of Foundry VTT has expired": "Su demo por tiempo limitado de Foundry VTT ha caducado",
   "Your password was changed successfully.": "Su contraseña ha sido cambiada con éxito.",
+  "Your selected Foundry version ({{ version }}) is not supported. Please change your Foundry version in the {{- link}} tab.": "Your selected Foundry version ({{ version }}) is not supported. Please change your Foundry version in the {{- link}} tab.",
   "Your subscription payment has failed after multiple attempts. Please <a href=\"/account#billing\">pay your due invoice</a> to unlock your account.": "El pago de su suscripción ha fallado tras múltiples intentos. Por favor <a href=\"/account#billing\">pagar su factura vencida</a> para desbloquear su cuenta.",
   "Your subscription payment has failed. Make sure your <a href=\"/account#billing\">payment details</a> are up to date to avoid service interruptions.": "El pago de su suscripción ha fallado. Asegúrese de que sus datos de pago de <a href=\"/account#billing\"></a> están actualizados para evitar interrupciones del servicio."
 }
