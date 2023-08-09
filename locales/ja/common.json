@@ -1,6 +1,6 @@
 {
   "ASSETS.MaxUploadLabel": "最大アセットアップロードサイズ",
-  "ASSETS.MaxUploadSize": "1ファイルあたり{{upload}}",
+  "ASSETS.MaxUploadSize": "1ファイルあたり{0}",
   "Alabama": "アラバマ",
   "Alaska": "アラスカ",
   "Alberta": "アルバータ",
