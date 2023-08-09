@@ -345,7 +345,6 @@
   "Invalid name. Must be 3 characters or longer": "Invalid name. Must be 3 characters or longer",
   "Invalid or already active Two-Factor Authentication": "二要素認証が無効か、すでに有効であること",
   "Invalid or expired password reset token": "無効または期限切れのパスワードリセットトークン",
-  "Invalid or unsupported version": "無効またはサポートされていないバージョン",
   "Invalid package": "Invalid package",
   "Invalid package name": "無効なパッケージ名",
   "Invalid package name (cannot have spaces or '/' in it): '{{packageId}}'": "無効なパッケージ名（スペースや'/'を含むことはできません）： '{{packageId}}'",
@@ -799,6 +798,7 @@
   "Your Investigation check failed and you only find emptiness…": "捜査は失敗し、あなたは虚しさを感じるだけだった...。",
   "Your Limited Time Demo of Foundry VTT has expired": "Foundry VTTの期間限定デモは終了しました。",
   "Your password was changed successfully.": "パスワードの変更に成功しました。",
+  "Your selected Foundry version ({{ version }}) is not supported. Please change your Foundry version in the {{- link}} tab.": "Your selected Foundry version ({{ version }}) is not supported. Please change your Foundry version in the {{- link}} tab.",
   "Your subscription payment has failed after multiple attempts. Please <a href=\"/account#billing\">pay your due invoice</a> to unlock your account.": "購読料の支払いが複数回試行された後、失敗しました。<a href=\"/account#billing\">アカウントのロックを解除するには、支払期限内の請求書（</a> ）をお支払いください。",
   "Your subscription payment has failed. Make sure your <a href=\"/account#billing\">payment details</a> are up to date to avoid service interruptions.": "購読料の支払いに失敗しました。サービスの中断を避けるため、<a href=\"/account#billing\">支払い情報</a> が最新であることを確認してください。"
 }
