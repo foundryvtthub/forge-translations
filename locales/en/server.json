@@ -345,6 +345,7 @@
   "Invalid name. Must be 3 characters or longer": "Invalid name. Must be 3 characters or longer",
   "Invalid or already active Two-Factor Authentication": "Invalid or already active Two-Factor Authentication",
   "Invalid or expired password reset token": "Invalid or expired password reset token",
+  "Invalid or unsupported version": "Invalid or unsupported version",
   "Invalid package": "Invalid package",
   "Invalid package name": "Invalid package name",
   "Invalid package name (cannot have spaces or '/' in it): '{{packageId}}'": "Invalid package name (cannot have spaces or '/' in it): '{{packageId}}'",
@@ -798,7 +799,6 @@
   "Your Investigation check failed and you only find emptiness…": "Your Investigation check failed and you only find emptiness…",
   "Your Limited Time Demo of Foundry VTT has expired": "Your Limited Time Demo of Foundry VTT has expired",
   "Your password was changed successfully.": "Your password was changed successfully.",
-  "Your selected Foundry version ({{ version }}) is not supported. Please change your Foundry version in the {{- link}} tab.": "Your selected Foundry version ({{ version }}) is not supported. Please change your Foundry version in the {{- link}} tab.",
   "Your subscription payment has failed after multiple attempts. Please <a href=\"/account#billing\">pay your due invoice</a> to unlock your account.": "Your subscription payment has failed after multiple attempts. Please <a href=\"/account#billing\">pay your due invoice</a> to unlock your account.",
   "Your subscription payment has failed. Make sure your <a href=\"/account#billing\">payment details</a> are up to date to avoid service interruptions.": "Your subscription payment has failed. Make sure your <a href=\"/account#billing\">payment details</a> are up to date to avoid service interruptions."
 }
