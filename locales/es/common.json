@@ -1,5 +1,6 @@
 {
-  "ASSETS.MaxUploadSize": "Tamaño máximo de carga: {{upload}} por archivo",
+  "ASSETS.MaxUploadLabel": "Tamaño máximo de carga",
+  "ASSETS.MaxUploadSize": "{0} por archivo",
   "Alabama": "Alabama",
   "Alaska": "Alaska",
   "Alberta": "Alberta",
