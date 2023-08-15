@@ -1674,6 +1674,7 @@
   "Save Point": "Guardar Punto",
   "Save Point {{- title}} deleted": "Guardar punto {{- title}} eliminado",
   "Save Point name": "Nombre del punto de guardado",
+  "Save Points: {{title}}": "Save Points: {{title}}",
   "Save type": "Guardar tipo",
   "Savepoint type": "Tipo de punto de guardado",
   "SAVEPOINTS.BackupsCount_one": "{{count}} copia de seguridad automática",

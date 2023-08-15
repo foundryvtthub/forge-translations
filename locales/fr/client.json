@@ -1674,6 +1674,7 @@
   "Save Point": "Point de sauvegarde",
   "Save Point {{- title}} deleted": "Point de sauvegarde {{- title}} supprimé",
   "Save Point name": "Nom du point de sauvegarde",
+  "Save Points: {{title}}": "Save Points: {{title}}",
   "Save type": "Type de sauvegarde",
   "Savepoint type": "Type de point de sauvegarde",
   "SAVEPOINTS.BackupsCount_one": "{{count}} sauvegarde automatique",

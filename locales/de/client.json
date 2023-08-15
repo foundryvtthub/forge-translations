@@ -1635,6 +1635,7 @@
   "Save Point": "Punkt speichern",
   "Save Point {{- title}} deleted": "Speicherpunkt {{- title}} gelöscht",
   "Save Point name": "Name des Sicherungspunkts",
+  "Save Points: {{title}}": "Save Points: {{title}}",
   "Save type": "Typ speichern",
   "Savepoint type": "Typ des Speicherpunkts",
   "SAVEPOINTS.BackupsCount_one": "{{count}} automatische Sicherung",

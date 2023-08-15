@@ -1625,6 +1625,7 @@
   "Save Point": "セーブポイント",
   "Save Point {{- title}} deleted": "セーブポイント{{- title}} 削除",
   "Save Point name": "セーブポイント名",
+  "Save Points: {{title}}": "Save Points: {{title}}",
   "Save type": "保存形式",
   "Savepoint type": "セーブポイントの種類",
   "SAVEPOINTS.BackupsCount_one": "{{count}} 自動バックアップ",
