@@ -838,6 +838,7 @@
   "Foundry telemetry:": "Foundry telemetry:",
   "Foundry User": "ファウンドリユーザー",
   "Foundry Users:": "Foundry Users:",
+  "New Foundry versions may introduce changes to the module manifest, and older versions without the new manifest requirements will now no longer be visible.": "新しい Foundry バージョンではモジュール マニフェストに変更が導入される可能性があり、新しいマニフェスト要件を満たしていない古いバージョンは表示されなくなります。",
   "Foundry VTT": "ファウンドリ VTT",
   "Foundry VTT is a software application that requires the purchase of a license key in order to download and try it. With the Forge however, you can try Foundry online using a demo license key that is valid for one hour only.": "Foundry VTTは、ダウンロードして試用するためにはライセンスキーの購入が必要なソフトウェアです。しかし、Forgeでは、1時間だけ有効なデモ用ライセンスキーを使って、オンラインでFoundryを試すことができます。",
   "Foundry VTT license": "ファウンドリVTTライセンス",
