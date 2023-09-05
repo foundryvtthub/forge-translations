@@ -1985,8 +1985,6 @@
   "Trial ends tomorrow": "Trial ends tomorrow",
   "TRIAL.DaysLeftChargeInfo": "You still have $t(TIME.days, {\"count\": {{daysCount}} }) left in your free trial so you will not be charged.",
   "TRIAL.DaysLeftPaymentInfo": "You have $t(TIME.days, {\"count\": {{daysCount}} }) left on your free trial. Payment will not be taken immediately and you may cancel at any time during this period without getting charged.",
-  "TRIAL.DaysRemaining_one": "{{count}} trial day remaining",
-  "TRIAL.DaysRemaining_other": "{{count}} trial days remaining",
   "Trinidad and Tobago": "Trinidad and Tobago",
   "Try Foundry now!": "Try Foundry now!",
   "Tunisia": "Tunisia",
