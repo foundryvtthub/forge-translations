@@ -1976,7 +1976,6 @@
   "TRIAL.DaysLeftChargeInfo": "無料トライアルにはまだ$t(TIME.days, {\"count\": {{daysCount}} }) が残っていますので、課金されることはありません。",
   "TRIAL.DaysLeftPaymentInfo": "無料トライアルが$t(TIME.days, {\"count\": {{daysCount}} }) 残っています。お支払いはすぐに行われませんので、この期間中であれば、いつでもキャンセルすることができます。",
   "TRIAL.DaysRemaining_one": "{{count}} よせんじつげつ",
-  "TRIAL.DaysRemaining_other": "{{count}} 試用期間残り日数",
   "Trinidad and Tobago": "トリニダード・トバゴ",
   "Try Foundry now!": "今すぐFoundryをお試しください。",
   "Tunisia": "チュニジア",

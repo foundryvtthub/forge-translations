@@ -1985,8 +1985,6 @@
   "Trial ends tomorrow": "Trial ends tomorrow",
   "TRIAL.DaysLeftChargeInfo": "Sie haben noch $t(TIME.days, {\"count\": {{daysCount}} }) in Ihrem kostenlosen Testzeitraum übrig, so dass Ihnen keine Kosten entstehen.",
   "TRIAL.DaysLeftPaymentInfo": "Sie haben noch $t(TIME.days, {\"count\": {{daysCount}} }) für Ihre kostenlose Testphase. Die Zahlung erfolgt nicht sofort, und Sie können während dieses Zeitraums jederzeit kündigen, ohne dass Ihnen Kosten entstehen.",
-  "TRIAL.DaysRemaining_one": "{{count}} verbleibender Versuchstag",
-  "TRIAL.DaysRemaining_other": "{{count}} verbleibende Versuchstage",
   "Trinidad and Tobago": "Trinidad und Tobago",
   "Try Foundry now!": "Probieren Sie Foundry jetzt aus!",
   "Tunisia": "Tunesien",
