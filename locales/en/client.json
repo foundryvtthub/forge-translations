@@ -2077,7 +2077,7 @@
   "US FEIN": "US FEIN",
   "Use existing default payment method": "Use existing default payment method",
   "Use the {0} to import your local data or install new custom packages.": "Use the {0} to import your local data or install new custom packages.",
-  "Use this tool to have The Forge migrate your incompatible modules so they can be access in Foundry VTT. Migrating the module won't prevent you from using it in earlier versions of Foundry VTT.": "Use this tool to have The Forge migrate your incompatible modules so they can be access in Foundry VTT. Migrating the module won't prevent you from using it in earlier versions of Foundry VTT.",
+  "Use this tool to have The Forge migrate your incompatible modules so they can be access in Foundry VTT. Migrating the module won't prevent you from using it in earlier versions of Foundry VTT.": "Use this tool to have The Forge migrate your incompatible modules so they can be accessed in Foundry VTT. Migrating the module won't prevent you from using it in earlier versions of Foundry VTT.",
   "User": "User",
   "User Management requires the Game Manager to be enabled": "User Management requires the Game Manager to be enabled",
   "User Profile": "User Profile",
