@@ -110,7 +110,7 @@
   "Cannot access Foundry's setup page: {{reason}}. {{moreInfo}}.": "Foundryのセットアップページにアクセスできません。{{reason}} {{moreInfo}}.",
   "Cannot access Foundry's setup page: {{reason}} {{moreInfo}}": "Foundryのセットアップページにアクセスできません。{{reason}} {{moreInfo}}",
   "Cannot access Foundry's setup page.": "Foundryのセットアップページにアクセスできません。",
-  "Cannot access Foundry's setup page. {{moreInfo}}.": "Foundryのセットアップページにアクセスできません。{{moreInfo}}.",
+  "Cannot access Foundry's setup page. {{moreInfo}}": "Foundryのセットアップページにアクセスできません。{{moreInfo}}.",
   "Cannot add a subscription when one already exists": "購読がすでに存在する場合に、購読を追加できない",
   "Cannot add or update more than one subscription per type/code": "1つのタイプ/コードに複数のサブスクリプションを追加または更新することはできません。",
   "Cannot add yourself to the list of creators to share revenue with": "収益を共有するクリエイターのリストに自分を追加することができない",

@@ -110,7 +110,7 @@
   "Cannot access Foundry's setup page: {{reason}}. {{moreInfo}}.": "Cannot access Foundry's setup page: {{reason}}. {{moreInfo}}.",
   "Cannot access Foundry's setup page: {{reason}} {{moreInfo}}": "Cannot access Foundry's setup page: {{reason}} {{moreInfo}}",
   "Cannot access Foundry's setup page.": "Cannot access Foundry's setup page.",
-  "Cannot access Foundry's setup page. {{moreInfo}}.": "Cannot access Foundry's setup page. {{moreInfo}}.",
+  "Cannot access Foundry's setup page. {{moreInfo}}": "Cannot access Foundry's setup page. {{moreInfo}}",
   "Cannot add a subscription when one already exists": "Cannot add a subscription when one already exists",
   "Cannot add or update more than one subscription per type/code": "Cannot add or update more than one subscription per type/code",
   "Cannot add yourself to the list of creators to share revenue with": "Cannot add yourself to the list of creators to share revenue with",
