@@ -1,6 +1,4 @@
 {
-  "ASSETS.MaxUploadLabel": "Maximale Asset-Upload-Größe",
-  "ASSETS.MaxUploadSize": "{0} pro Datei",
   "Alabama": "Alabama",
   "Alaska": "Alaska",
   "Alberta": "Alberta",
@@ -30,7 +28,6 @@
   "Explorer Mode": "Entdecker-Modus",
   "Extras": "Extras",
   "FAQ": "FAQ",
-  "File size is above acceptable limits.": "Die Datei übersteigt die zulässige Größe.",
   "Florida": "Florida",
   "Game Data": "Spiel-Daten",
   "Game Manager": "Game Manager",

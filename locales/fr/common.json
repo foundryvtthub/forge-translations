@@ -1,6 +1,4 @@
 {
-  "ASSETS.MaxUploadLabel": "Taille maximale des téléversements",
-  "ASSETS.MaxUploadSize": "{0} par fichier",
   "Alabama": "Alabama",
   "Alaska": "Alaska",
   "Alberta": "Alberta",
@@ -30,7 +28,6 @@
   "Explorer Mode": "Mode Explorateur",
   "Extras": "Extras",
   "FAQ": "FAQ",
-  "File size is above acceptable limits.": "La taille du fichier est supérieure aux limites acceptables.",
   "Florida": "Floride",
   "Game Data": "Données de la partie",
   "Game Manager": "Gestionnaire de la partie",
