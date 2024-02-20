@@ -209,7 +209,7 @@
   "Are you sure you want to reset the player passwords in Foundry?": "Êtes-vous sûr de vouloir réinitialiser les mots de passe des joueurs dans Foundry ?",
   "Are you sure you want to revoke {0}?": "Are you sure you want to revoke {0}?",
   "Are you sure you want to revoke the key {0}?": "Are you sure you want to revoke the key {0}?",
-  "Are you sure you want to uninstall the version locked {{type}} {{- title}}?.": "Êtes-vous sûr de vouloir désinstaller la version verrouillée de {{type}} {{- title}} ?",
+  "Are you sure you want to uninstall the version locked {{type}} {{- title}}?": "Êtes-vous sûr de vouloir désinstaller la version verrouillée de {{type}} {{- title}} ?",
   "Are you sure you want to unpublish {{- title}}?": "Êtes-vous sûr de vouloir dépublier {{- title}} ?",
   "Are you sure you want to unshare this folder, which is associated with the API key {0}?": "Are you sure you want to unshare this folder, which is associated with the API key {0}?",
   "Are you sure you want to upscale the {1} region?": "Are you sure you want to upscale the {1} region?",
