@@ -193,7 +193,7 @@
   "Are you sure you want to reset the player passwords in Foundry?": "Foundryのプレイヤーパスワードをリセットするのは本当にいいのですか？",
   "Are you sure you want to revoke {0}?": "Are you sure you want to revoke {0}?",
   "Are you sure you want to revoke the key {0}?": "Are you sure you want to revoke the key {0}?",
-  "Are you sure you want to uninstall the version locked {{type}} {{- title}}?.": "バージョンロックされた{{type}} {{- title}}?をアンインストールするのは本当に良いのでしょうか？",
+  "Are you sure you want to uninstall the version locked {{type}} {{- title}}?": "バージョンロックされた{{type}} {{- title}}?をアンインストールするのは本当に良いのでしょうか？",
   "Are you sure you want to unpublish {{- title}}?": "{{- title}} 本当に公開を中止するのですか？",
   "Are you sure you want to unshare this folder, which is associated with the API key {0}?": "Are you sure you want to unshare this folder, which is associated with the API key {0}?",
   "Are you sure you want to upscale the {1} region?": "Are you sure you want to upscale the {1} region?",
