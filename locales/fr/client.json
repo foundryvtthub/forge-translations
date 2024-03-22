@@ -1298,7 +1298,7 @@
   "Log viewer": "Afficheur de log",
   "Login": "Connexion",
   "Login with SSO only": "Connexion uniquement avec SSO",
-  "LOGIN.ACCEPT_TOS": "J'accepte de me conformer aux conditions d'utilisation du site <a href=\"/tos\" target=\"_blank\">.</a>",
+  "LOGIN.ACCEPT_TOS": "J'accepte de me conformer aux {0}",
   "Logs": "Logs",
   "Looking for servers, please wait…": "Recherche de serveurs, veuillez patienter…",
   "Luxembourg": "Luxembourg",
