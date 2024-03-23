@@ -1263,7 +1263,7 @@
   "Log viewer": "Log viewer",
   "Login": "Login",
   "Login with SSO only": "Login with SSO only",
-  "LOGIN.ACCEPT_TOS": "I agree to abide by the <a href=\"/tos\" target=\"_blank\">Terms of Service</a>",
+  "LOGIN.ACCEPT_TOS": "I agree to abide by the {0}",
   "Logs": "Logs",
   "Looking for servers, please wait…": "Looking for servers, please wait…",
   "Luxembourg": "Luxembourg",

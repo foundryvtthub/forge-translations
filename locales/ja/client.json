@@ -1248,7 +1248,7 @@
   "Log viewer": "Log viewer",
   "Login": "ログイン",
   "Login with SSO only": "Login with SSO only",
-  "LOGIN.ACCEPT_TOS": "私は、<a href=\"/tos\" target=\"_blank\">利用規約を遵守することに同意します。</a>",
+  "LOGIN.ACCEPT_TOS": "私は、{0}を遵守することに同意します。",
   "Logs": "Logs",
   "Looking for servers, please wait…": "サーバーを探しています、お待ちください…",
   "Luxembourg": "ルクセンブルク",
