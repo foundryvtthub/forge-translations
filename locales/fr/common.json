@@ -220,5 +220,16 @@
   "{{count}} TB_many": "{{count}} TB",
   "{{count}} TB_one": "{{count}} TB",
   "{{count}} TB_other": "{{count}} TB",
-  "{{title}} (Restored from {{date}})": "{{title}} (Restauré au {{date}})"
+  "{{title}} (Restored from {{date}})": "{{title}} (Restauré au {{date}})",
+  "BAZAAR_TAG.demonic": "Démoniaque",
+  "BAZAAR_TAG.desert-location": "Désert",
+  "BAZAAR_TAG.dice-skin": "Aspect des dés",
+  "BAZAAR_TAG.dining": "Dîner",
+  "BAZAAR_TAG.dunes": "Dunes/Désert de sable",
+  "BAZAAR_TAG.elemental-bestiary": "Elémentaire",
+  "BAZAAR_TAG.elemental-location": "élémentaire",
+  "BAZAAR_TAG.espionage": "Espionnage",
+  "BAZAAR_TAG.establishment": "Etablissement",
+  "BAZAAR_TAG.euro": "européen",
+  "BAZAAR_TAG.eldritch": "Surnaturel"
 }
