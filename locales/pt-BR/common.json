@@ -189,5 +189,8 @@
   "{{count}} TB_many": "{{count}} TB",
   "{{count}} TB_one": "{{count}} TB",
   "{{count}} TB_other": "{{count}} TB",
-  "{{title}} (Restored from {{date}})": "{{title}} (Restaurado a partir de {{date}})"
+  "{{title}} (Restored from {{date}})": "{{title}} (Restaurado a partir de {{date}})",
+  "BAZAAR_TAG.adventure": "Aventura",
+  "BAZAAR_TAG.adversary-tokens": "Adversário",
+  "BAZAAR_TAG.animated-assets": "Ativos de Mapas Animados"
 }
