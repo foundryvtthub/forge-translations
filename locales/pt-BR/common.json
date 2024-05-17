@@ -9,6 +9,9 @@
   "Assets Library": "Biblioteca de Bens",
   "Assistant Game Master": "Mestre de Jogo Assistente",
   "Avatar": "Avatar",
+  "BAZAAR_TAG.adventure": "Aventura",
+  "BAZAAR_TAG.adversary-tokens": "Adversário",
+  "BAZAAR_TAG.animated-assets": "Ativos de Mapas Animados",
   "Bazaar": "Bazaar",
   "British Columbia": "Columbia Britânica",
   "California": "Califórnia",
@@ -189,8 +192,5 @@
   "{{count}} TB_many": "{{count}} TB",
   "{{count}} TB_one": "{{count}} TB",
   "{{count}} TB_other": "{{count}} TB",
-  "{{title}} (Restored from {{date}})": "{{title}} (Restaurado a partir de {{date}})",
-  "BAZAAR_TAG.adventure": "Aventura",
-  "BAZAAR_TAG.adversary-tokens": "Adversário",
-  "BAZAAR_TAG.animated-assets": "Ativos de Mapas Animados"
+  "{{title}} (Restored from {{date}})": "{{title}} (Restaurado a partir de {{date}})"
 }
