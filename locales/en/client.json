@@ -798,6 +798,7 @@
   "ERROR.ErrorCloningWorld": "Error cloning world: {{error}}",
   "ERROR.ErrorRetrievingData": "Error retrieving data: {{error}}",
   "ERROR.FailedToCreateGame": "Failed to create game: {{error}}",
+  "ERROR.FailedToCreateGame.NoSystemSelected": "Failed to create game. Please select a system or world.",
   "ERROR.FailedToInstallSystem": "Failed to install system: {{error}}",
   "Errors occurred during upload, see below": "Errors occurred during upload, see below",
   "Errors uploading assets:": "Errors uploading assets:",
