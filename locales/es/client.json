@@ -928,7 +928,7 @@
   "Failed to {{verb}} {{- type}} {{- name}}: {{- error}}": "Fallo en {{verb}} {{- type}} {{- name}}: {{- error}}",
   "Failed to {{verb}} Favorite: {{- error}}": "Fallo en {{verb}} Favorito: {{- error}}",
   "Failed to extract {{count}} files from {{- zipName}}_one": "Fallo en extraer{{count}} archivos de {{- zipName}}",
-  "Failed to extract {{count}} files from {{- zipName}}_many": "Failed to extract {{count}} files from {{- zipName}}",
+  "Failed to extract {{count}} files from {{- zipName}}_many": "Fallo en extraer {{count}} archivos de {{- zipName}}",
   "Failed to extract {{count}} files from {{- zipName}}_other": "Fallo en extraer {{count}} archivos de {{- zipName}}",
   "Failed to import {{failures}} {{type}}": "Error al importar {{failures}} {{type}}",
   "Failed to import content: {{- error}}": "No se ha podido importar el contenido: {{- error}}",

@@ -141,6 +141,7 @@
   "BAZAAR_TAG.ship-location": "Navio/Barco",
   "BAZAAR_TAG.shop": "Loja",
   "BAZAAR_TAG.skeletal": "Esquelético",
+  "BAZAAR_TAG.slapstick": "Comédia pastelão",
   "BAZAAR_TAG.sound-effects": "Efeitos sonoros",
   "BAZAAR_TAG.space-scifi": "Espaço",
   "BAZAAR_TAG.special-events": "Eventos especiais",
@@ -151,6 +152,7 @@
   "BAZAAR_TAG.system-expansion": "Expansão do sistema",
   "BAZAAR_TAG.system-items": "Itens",
   "BAZAAR_TAG.terrain-assets": "Terreno",
+  "BAZAAR_TAG.thriller": "Suspense",
   "BAZAAR_TAG.tokens": "Arte do token",
   "BAZAAR_TAG.tower": "Torre",
   "BAZAAR_TAG.tribal-location": "Tribal",
@@ -398,7 +400,5 @@
   "{{count}} TB_many": "{{count}} TB",
   "{{count}} TB_one": "{{count}} TB",
   "{{count}} TB_other": "{{count}} TB",
-  "{{title}} (Restored from {{date}})": "{{title}} (Restaurado a partir de {{date}})",
-  "BAZAAR_TAG.thriller": "Suspense",
-  "BAZAAR_TAG.slapstick": "Comédia pastelão"
+  "{{title}} (Restored from {{date}})": "{{title}} (Restaurado a partir de {{date}})"
 }
